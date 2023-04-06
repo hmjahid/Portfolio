@@ -1,7 +1,7 @@
 .Language{
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(16,121,9,1) 35%, rgba(0,212,255,1) 100%) ;
+    background-image: linear-gradient(to right top, #d16bc3, #f1789e, #f49488, #e9b189, #dbcba0, #d6d2a5, #d1d9ac, #cbe0b5, #c3dba0, #bdd689, #b9d071, #b6ca58);
     padding: 10px 30px 20px 0px;
-    color: rgb(241, 227, 229);
+    color: rgb(14, 14, 14);
     height: 1200px;
     font-size: 24px;
 }

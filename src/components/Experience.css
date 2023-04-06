@@ -1,5 +1,5 @@
 .Experience{
-    background: linear-gradient(90deg, rgba(34,9,121,0.4163866230085784) 20%, rgba(0,212,255,1) 31%, rgba(34,9,121,0.4163866230085784) 100%, rgba(2,0,36,1) 100%);
+    background-image: linear-gradient(to right top, #2c87ff, #00a6ff, #00bcec, #00cbc2, #4bd598, #63d493, #76d290, #85d18d, #59c89f, #2bbcae, #00afb9, #12a0bd);
     color: black;
     padding: 2px 0px 20px 0px;
     height: 1200px;
@@ -25,5 +25,9 @@
 }
 
 .ExperienceSection {
-    padding-top: 400px;
+    padding-top: 350px;
+}
+
+p {
+    padding: 0px 200px 0px 200px;
 }
