@@ -54,7 +54,7 @@ function App() {
       <a href='https://www.linkedin.com/in/md-jahid-hasan-584712243/' target='_blank'><button>Linkedin</button></a> &nbsp;&nbsp;
       <a href='https://github.com/hmjahid' target='_blank'><button>Github</button></a> &nbsp;&nbsp; 
       <a href='https://twitter.com/mdjahidhasan919' target='_blank'><button>Twitter</button></a> &nbsp;&nbsp; 
-      <a href='https://www.facebook.com/mdjahidhasan52443' target='_blank'><button>Facebookn</button></a> &nbsp;&nbsp; 
+      <a href='https://www.facebook.com/mdjahidhasan52443' target='_blank'><button>Facebook</button></a> &nbsp;&nbsp; 
       <a href='https://www.instagram.com/md_jahid_hasan52443/' target='_blank'><button>Instagram</button></a> &nbsp;&nbsp; 
       </section>
 
