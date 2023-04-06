@@ -2,7 +2,7 @@ import "./Education.css"
 
 const Education = () => {
   return (
-    <div className="Education">
+    <div className="Education" id="Education">
         <h2 className="EducationHeading">Education</h2>
         <section className="EducationSection">
         <div className="courseDetails2">

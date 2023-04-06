@@ -50,18 +50,18 @@
 }
 
 .Intro{
-  background: linear-gradient(90deg, rgb(84, 166, 185) 18%, rgba(34,9,121,0.4163866230085784) 43%, rgba(216, 135, 216, 0.416) 61%, rgba(2,0,36,1) 100%);
+  background-image: linear-gradient(to right top, #204530, #073c38, #05323a, #122734, #191d28, #181b24, #17181f, #16161b, #16191e, #171c20, #191f22, #1b2223);
   padding-bottom: 16px;
   height: 1200px;
 }
 
 #Name{
   font-size: 48px;
-  color: rgb(201, 18, 195);
+  color: rgb(255, 255, 255);
 }
 
 .Profession{
-  color: rgb(130, 8, 122);
+  color:snow;
 }
 
 marquee {
@@ -72,4 +72,5 @@ marquee {
 
 .About {
   padding: 0px 400px 0px 400px;
+  color: whitesmoke;
 }

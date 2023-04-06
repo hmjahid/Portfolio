@@ -2,7 +2,7 @@ import './Language.css';
 
 const Language = () => {
   return (
-    <div className="Language">
+    <div className="Language" id='Language'>
     <h2 className='LanguageHeading'>Language</h2>
      <section className='LanguageSection'>
      <ul>

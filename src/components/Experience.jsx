@@ -4,7 +4,7 @@ import propTypes from 'prop-types'
 
 const Experience = (props) => {
   return (
-    <div className='Experience'>
+    <div className='Experience' id="Experience">
         <h2 className="ExperienceHeading">Experiences</h2>
 
         <section className="ExperienceSection">

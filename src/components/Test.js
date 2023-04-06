@@ -2,7 +2,7 @@ import './Test.css';
 
 const Test = () => {
   return (
-    <div className="Test">
+    <div className="Test" id='Test'>
         <h2 className='TestHeading'>Test</h2>
         <section className='TestSection'>
         <h3>EF Standard English Test (EF SET)</h3>
