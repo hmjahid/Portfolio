@@ -2,7 +2,7 @@
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(109,9,121,1) 35%, rgba(0,212,255,1) 100%);
     padding: 10px 0px 10px 0px;
     color: rgb(124, 203, 33);
-    height: 1000px;
+    height: 1200px;
 }
 
 .TestHeading {
@@ -20,5 +20,5 @@ a {
 }
 
 .TestSection {
-    padding-top: 400px;
+    padding-top: 500px;
 }

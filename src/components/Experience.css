@@ -2,7 +2,7 @@
     background: linear-gradient(90deg, rgba(34,9,121,0.4163866230085784) 20%, rgba(0,212,255,1) 31%, rgba(34,9,121,0.4163866230085784) 100%, rgba(2,0,36,1) 100%);
     color: black;
     padding: 2px 0px 20px 0px;
-    height: 1000px;
+    height: 1200px;
 }
 
 .title{
@@ -25,5 +25,5 @@
 }
 
 .ExperienceSection {
-    padding-top: 200px;
+    padding-top: 400px;
 }

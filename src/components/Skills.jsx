@@ -5,6 +5,7 @@ const Skills = (props) => {
   return (
     <div className='Skill'>
       <h2 className="SkillHeading">{props.title}</h2>
+      <section className="SkillSection">
       <ul>
         <li>HTML5</li>
         <li>CSS3</li>
@@ -16,6 +17,7 @@ const Skills = (props) => {
         <li>Linux</li>
         <li>FreeBSD</li>
       </ul>
+      </section>
     </div>
   );
 }

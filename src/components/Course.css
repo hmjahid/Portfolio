@@ -2,7 +2,7 @@
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,35,1) 68%, rgba(0,212,255,1) 100%);
     padding: 10px 0px 15px 0px;
     color: blanchedalmond;
-    height: 1000px;
+    height: 1200px;
 }
 
 .CourseHeading {
@@ -15,5 +15,5 @@
 }
 
 .CourseSection {
-    padding-top: 300px;
+    padding-top: 400px;
 }

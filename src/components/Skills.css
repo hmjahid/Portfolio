@@ -2,7 +2,7 @@
     background: linear-gradient(90deg, rgba(2,0,36,1) 5%, rgba(0,212,255,1) 57%, rgba(34,9,121,0.4163866230085784) 86%, rgba(34,9,121,0.4163866230085784) 98%);
     padding: 10px 30px 20px 0px;
     color:crimson;
-    height: 1000px;
+    height: 1200px;
     font-size: 24px;
 }
 
@@ -24,4 +24,8 @@ ul{
 li{
     list-style: none;
     padding-top: 10px;
+}
+
+.SkillSection {
+    padding-top: 200px;
 }

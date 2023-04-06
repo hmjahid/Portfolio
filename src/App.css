@@ -38,10 +38,6 @@
   }
 }
 
-#Name{
-  font-size: 48px;
-  color: white;
-}
 
 .SkillDiv{
   margin:0;
@@ -54,15 +50,26 @@
 }
 
 .Intro{
-  background: linear-gradient(90deg, rgba(0,212,255,1) 18%, rgba(34,9,121,0.4163866230085784) 43%, rgba(252,32,252,0.4163866230085784) 61%, rgba(2,0,36,1) 100%);
+  background: linear-gradient(90deg, rgb(84, 166, 185) 18%, rgba(34,9,121,0.4163866230085784) 43%, rgba(216, 135, 216, 0.416) 61%, rgba(2,0,36,1) 100%);
   padding-bottom: 16px;
+  height: 1200px;
+}
+
+#Name{
+  font-size: 48px;
+  color: rgb(201, 18, 195);
 }
 
 .Profession{
-  color: white;
+  color: rgb(130, 8, 122);
 }
 
 marquee {
   font-weight: bold;
   color: rgb(255, 255, 255);
+  padding: 15px 0px 5px 0px;
+}
+
+.About {
+  padding: 0px 400px 0px 400px;
 }
