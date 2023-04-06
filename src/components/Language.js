@@ -5,6 +5,7 @@ const Language = () => {
     <div className="Language" id='Language'>
     <h2 className='LanguageHeading'>Language</h2>
      <section className='LanguageSection'>
+     <h2><u>My Language Proficiency :</u></h2>
      <ul>
         <li>Bengali (Native)</li>
         <li>English (Working Proficiency)</li>
