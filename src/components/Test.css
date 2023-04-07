@@ -1,6 +1,5 @@
 .Test {
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(109,9,121,1) 35%, rgba(0,212,255,1) 100%);
-    padding: 10px 0px 10px 0px;
+    background-image: linear-gradient(to right top, #0b200f, #001e19, #001c20, #001722, #0c121f, #0f111e, #11111e, #13101d, #0f1421, #091824, #041c25, #021f25);
     color: rgb(124, 203, 33);
     height: 1200px;
 }

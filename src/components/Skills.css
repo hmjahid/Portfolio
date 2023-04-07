@@ -1,5 +1,5 @@
 .Skill{
-    background: linear-gradient(90deg, rgba(131,58,180,1) 16%, rgba(253,29,29,1) 51%, rgba(252,176,69,1) 85%); 
+    background-image: linear-gradient(to right top, #0e1812, #051917, #00191e, #031824, #101526, #121425, #141424, #151323, #0d1421, #07151d, #051419, #081314);
     padding: 10px 30px 20px 0px;
     color:rgb(251, 251, 251);
     height: 1200px;
@@ -18,6 +18,7 @@
 ul{
     justify-content: center;
     text-align: center;
+    align-items: normal;
 }
 
 li{

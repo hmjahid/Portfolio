@@ -9,13 +9,16 @@ import Course from './components/Course';
 import MdJahidHasan from './components/MdJahidHasan.jpg';
 import Language from './components/Language';
 import Test from './components/Test.js';
+import Navbar from './components/Navbar';
+import Hire from './components/Hire';
+import Contact from './components/Contact';
+import Projects from './components/Projects';
 
 function App() {
   const dateOfBirth = "1st September, 1996"
 
   return (
     <div className="App">
-
     <div className='Intro' id='Intro'>
     {/**
       <Starter/>
@@ -24,21 +27,23 @@ function App() {
       <Header/>
       <SubHeader/>
     */}
-      <p style={{color: "red", margin: "0px 28px 0px 28px", backgroundColor: "white", padding:"5px", fontWeight:"bold", borderRadius: "8px", fontSize: "24px", boxShadow: "5px 5px 5px 5px black"}}>*** Starting By The Name Of Almighty ALLAH ***</p>
+      <Navbar />
 
-      <marquee behavior="" direction="">***Development Of This Site On Going***</marquee>
-      
+      {/**
       <section className='NavigationSection'>
-      <a href='#intro'><button>Home</button></a> &nbsp; &nbsp;
-      <a href='#Skill'><button>Skills</button></a> &nbsp; &nbsp; 
-      <a href='#Experience'><button>Experience</button></a> &nbsp; &nbsp; 
-      <a href='#Education'><button>Education</button></a> &nbsp; &nbsp; 
-      <a href='#Course'><button>Course</button></a> &nbsp; &nbsp; 
-      <a href='#Test'><button>Test</button></a> &nbsp; &nbsp; 
-      <a href='#HireMe'><button>Hire Me</button></a> &nbsp; &nbsp; 
-      <a href='#QuickLinks'><button>Useful Links</button></a> 
+        <ul>
+          <li><a href='#intro'>Home</a></li>
+          <li><a href='#Skill'>Skills</a></li>
+          <li><a href='#Experience'>Experience</a></li>
+          <li><a href='#Education'>Education</a></li>
+          <li><a href='#Course'>Course</a></li>
+          <li><a href='#Test'>Test</a></li>
+          <li><a href='#HireMe'>Hire Me</a></li>
+          <li><a href='#ContactMe'>Contact Me</a></li>
+        </ul>
       </section>
-
+      */}
+    
       <img className='ProfilePhoto' src={MdJahidHasan} alt="Md Jahid Hasan" style={{height: "400px", width: "304px"}}/>
       <h1 id='Name'>Md Jahid Hasan</h1>
       <h2 className='Profession'>Front-End Developer</h2>
@@ -63,6 +68,7 @@ function App() {
     */}
     </div>
 
+    <Projects />
       <div className='SkillDiv'>
          <Skills title= "Skills"/>
       </div>
@@ -75,6 +81,8 @@ function App() {
       <Course/>
       <Language/>
       <Test/>
+      <Hire/>
+      <Contact/>
       
     </div>
   );
