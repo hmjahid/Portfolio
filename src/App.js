@@ -29,21 +29,21 @@ function App() {
       <marquee behavior="" direction="">***Development Of This Site On Going***</marquee>
       
       <section className='NavigationSection'>
-      <a href='#intro'><button>Home</button></a> &nbsp;&nbsp;
-      <a href='#Skill'><button>Skills</button></a> &nbsp;&nbsp; 
-      <a href='#Experience'><button>Experience</button></a> &nbsp;&nbsp; 
-      <a href='#Education'><button>Education</button></a> &nbsp;&nbsp; 
-      <a href='#Course'><button>Course</button></a> &nbsp;&nbsp; 
-      <a href='#Test'><button>Test</button></a> &nbsp;&nbsp; 
-      <a href='#QuickLinks'><button>Quick Links</button></a> &nbsp;&nbsp; 
-      <a href='#HireMe'><button>Hire Me</button></a>
+      <a href='#intro'><button>Home</button></a> &nbsp; &nbsp;
+      <a href='#Skill'><button>Skills</button></a> &nbsp; &nbsp; 
+      <a href='#Experience'><button>Experience</button></a> &nbsp; &nbsp; 
+      <a href='#Education'><button>Education</button></a> &nbsp; &nbsp; 
+      <a href='#Course'><button>Course</button></a> &nbsp; &nbsp; 
+      <a href='#Test'><button>Test</button></a> &nbsp; &nbsp; 
+      <a href='#HireMe'><button>Hire Me</button></a> &nbsp; &nbsp; 
+      <a href='#QuickLinks'><button>Useful Links</button></a> 
       </section>
 
-      <img className='ProfilePhoto' src={MdJahidHasan} alt="Md Jahid Hasan" style={{height: "500px", width: "380px"}}/>
+      <img className='ProfilePhoto' src={MdJahidHasan} alt="Md Jahid Hasan" style={{height: "400px", width: "304px"}}/>
       <h1 id='Name'>Md Jahid Hasan</h1>
       <h2 className='Profession'>Front-End Developer</h2>
       <p className='About'>
-        I am a qualified and professional front-end web developer with experience in website design. Strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative.
+        I am a qualified and professional Front-End Web Developer with experience in website design. Strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a detail-oriented and result-oriented who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in Linux environment. I am excited to learn new technology.
       </p>
 
       <br/>

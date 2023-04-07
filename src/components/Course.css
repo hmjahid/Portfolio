@@ -17,3 +17,8 @@
 .CourseSection {
     padding-top: 200px;
 }
+
+div > section > h2 {
+    color: rgb(161, 238, 18);
+    font-weight: 600;
+}

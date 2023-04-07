@@ -29,3 +29,7 @@ li{
     padding-top: 200px;
 }
 
+div > section > h2 {
+    color: black;
+    font-weight: 600;
+}

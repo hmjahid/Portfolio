@@ -6,7 +6,7 @@ const Skills = (props) => {
     <div className='Skill' id="Skill">
       <h2 className="SkillHeading">{props.title}</h2>
       <section className="SkillSection">
-      <h2><u>My Tech Skills :</u></h2>
+      <h2 style={{color: "midnightblue"}}><u>My Tech Skills :</u></h2>
       <ul>
         <li>HTML5</li>
         <li>CSS3</li>

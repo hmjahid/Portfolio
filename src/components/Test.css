@@ -23,3 +23,7 @@ a {
     padding-top: 300px;
 }
 
+div > section > h2 {
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
