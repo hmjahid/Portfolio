@@ -1,0 +1,32 @@
+.Contact {
+    background-image: linear-gradient(to right top, #090909, #141414, #1b1b1b, #222222, #2a2a2a, #2b2b2b, #2b2b2b, #2c2c2c, #262626, #202020, #1a1a1a, #141414);
+    height: 1200px;
+}
+
+.ContactHeading {
+    margin: -10px 28px 0px 25px;
+    background-color: rgb(255, 255, 255);
+    color: blue;
+    border-radius: 8px;
+    font-size: 32px;
+    box-shadow: 5px 5px 1px 5px black;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.ContactSection {
+    padding-top: 300px;
+}
+
+div > section > h2 {
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+}
+
+.ContactSection > a > button {
+    padding: 10px;
+    width: 150px;
+}

@@ -1,6 +1,5 @@
 .Course {
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,9,35,1) 68%, rgba(0,212,255,1) 100%);
-    padding: 10px 0px 15px 0px;
+    background-image: linear-gradient(to right top, #141e17, #101f1d, #111f22, #151f25, #1c1e26, #1c1d24, #1c1c23, #1c1b21, #17191f, #12171c, #0d1518, #071214);
     color: blanchedalmond;
     height: 1200px;
 }
