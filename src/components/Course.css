@@ -21,3 +21,17 @@ div > section > h2 {
     color: rgb(161, 238, 18);
     font-weight: 600;
 }
+
+.CourseSection > a > button {
+    padding: 10px;
+    width: 150px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.CourseSection > a > button:hover {
+    background-color: rgb(86, 252, 61);
+    color: rgb(3, 3, 3);
+    border: 2px solid rgb(1, 128, 255);
+    cursor: pointer;
+}
