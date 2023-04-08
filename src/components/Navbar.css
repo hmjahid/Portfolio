@@ -23,9 +23,8 @@
   
   .NavigationBar > ul > li > a:hover {
     font-size: 24px;
-    color: black;
     border-radius: 20px;
-    background-color: #fff;
+    background-color: #ff683a;
     padding: 15px 30px 15px 30px;
     border-radius: 28px;
     cursor: pointer; 
