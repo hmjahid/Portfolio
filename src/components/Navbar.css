@@ -11,18 +11,22 @@
   .NavigationBar > ul > li {
     font-size: 24px;
     font-weight: bold;
-    color: rgb(16, 15, 15);
     display: inline;
     flex-direction: left;
-    padding: 18px 30px 22px 30px;
-    cursor: pointer;
+    text-align: left;
   }
   
-  .NavigationBar > ul > li:hover {
+  .NavigationBar > ul > li > a {
+    padding: 15px 25px 15px 25px;
+    cursor: pointer; 
+  }
+  
+  .NavigationBar > ul > li > a:hover {
     font-size: 24px;
     border-radius: 20px;
-    background-color: rgb(255, 82, 13);
-    border-radius: 32px;
+    background-color: #ff683a;
+    padding: 15px 25px 15px 25px;
+    border-radius: 28px;
     cursor: pointer; 
   }
   

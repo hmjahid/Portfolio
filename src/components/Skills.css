@@ -8,9 +8,8 @@
 
 .SkillHeading{
     background-color: rgb(255, 255, 255);
-    margin: -10px 5px 0px 25px;
+    margin: -10px 0px 0px 0px;
     color: blue;
-    border-radius: 8px;
     font-size: 32px;
     box-shadow: 5px 5px 1px 5px black;
 }

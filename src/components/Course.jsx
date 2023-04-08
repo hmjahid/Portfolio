@@ -3,7 +3,7 @@ import "./Course.css";
 const Course = () => {
   return (
     <div className="Course" id="Course">
-        <h2 className="CourseHeading">Course</h2>
+        <h2 className="CourseHeading">Courses</h2>
         <section className="CourseSection">
         <h2 style={{color: "lightgreen"}}><u>Courses Completed By Me :</u></h2>
         <h3>Database Programming</h3>

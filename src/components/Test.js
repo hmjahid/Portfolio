@@ -3,7 +3,7 @@ import './Test.css';
 const Test = () => {
   return (
     <div className="Test" id='Test'>
-        <h2 className='TestHeading'>Test</h2>
+        <h2 className='TestHeading'>Tests</h2>
         <section className='TestSection'>
         <h2 style={{color: "white"}}><u>Tests I Tested :</u></h2>
         <h3>EF Standard English Test (EF SET)</h3>
