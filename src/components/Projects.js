@@ -62,7 +62,7 @@ const Projects = () => {
         <br/>
 
         <div className='Project5'>
-          <h3>Project Name : OutFits - an e-commerce Web Application</h3>
+          <h3>Project Name : OutFits - An E-commerce Web Application</h3>
           <h4>Used Technology : HTML , CSS , Bootstrap , CDN</h4>
           <a href='https://github.com/hmjahid/OutFits' target='_blank'><button>Source Code</button></a> &nbsp;&nbsp;
           <a href='https://outfits1.netlify.app/' target='_blank'><button>Live Site </button></a>
