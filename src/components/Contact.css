@@ -29,4 +29,13 @@ div > section > h2 {
 .ContactSection > a > button {
     padding: 10px;
     width: 150px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.ContactSection > a > button:hover {
+    background-color: rgb(166, 73, 11);
+    color: white;
+    border: 2px solid rgb(235, 240, 243);
+    cursor: pointer;
 }

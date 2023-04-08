@@ -68,20 +68,27 @@ function App() {
     */}
     </div>
 
-    <Projects />
-      <div className='SkillDiv'>
+    <div className='SkillDiv'>
          <Skills title= "Skills"/>
       </div>
+
+    <Projects />
+      
       <Experience 
           position1="Office Assistant Cum Computer Operator"
           position2="CNC Operator, Machinist and Programmer" 
           company="Nichima Precision Engineering Sdn. Bhd., Penang, Malaysia"
       />
       <Education/>
+
       <Course/>
+
       <Language/>
+
       <Test/>
+
       <Hire/>
+
       <Contact/>
       
     </div>
