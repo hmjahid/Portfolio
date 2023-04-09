@@ -4,8 +4,6 @@
 }
 
 
-
-
 .SkillDiv{
   margin:0;
   padding: 0;
@@ -17,7 +15,12 @@
 }
 
 .Intro{
+  
+  
   background-image: linear-gradient(to right top, #204530, #073c38, #05323a, #122734, #191d28, #181b24, #17181f, #16161b, #16191e, #171c20, #191f22, #1b2223);
+  /*
+  background-color: black;
+  */
   padding-bottom: 16px;
   height: 1270px;
 }
@@ -37,7 +40,7 @@ marquee {
   padding: 15px 0px 5px 0px;
 }
 
-.About {
+.ProfileAbout {
   padding: 0px 450px 0px 450px;
   color: whitesmoke;
   font-size: 24px;
@@ -94,7 +97,26 @@ marquee {
   width: 200px;
   font-size: 24px;
   color: rgb(255, 255, 255);
-  background-color: rgb(9, 9, 9);
+  background-color: orangered;
   border: 2px solid white;
+  cursor: pointer;
+}
+
+.TopDownload {
+  padding-top: 20px;
+}
+
+.TopDownload > a > button {
+  padding: 12px;
+  width: 200px;
+  font-weight: bold;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.TopDownload > a > button:hover {
+  background-color: orangered;
+  color: white;
+  border-radius: 8px solid rgb(255, 252, 252);
   cursor: pointer;
 }

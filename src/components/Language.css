@@ -1,5 +1,9 @@
 .Language{
+    
     background-image: linear-gradient(to right top, #0d130e, #091210, #071011, #080d10, #090a0e, #0a0a0f, #0b0b10, #0c0b11, #0c0f15, #0a1219, #07151b, #04181c);
+    /*
+    background-color: black;
+    */
     color: rgb(255, 255, 255);
     height: 1200px;
     font-size: 24px;
@@ -14,13 +18,15 @@
     padding-bottom: 4px;
 }
 
-ul{
-    justify-content: center;
-    text-align: center;
+.LanguageSection > ul{
+    justify-content: Center;
+    text-align: left;
+    list-style: circle;
+    padding-left: 800px; 
 }
 
-li{
-    list-style: none;
+.LanguageSection > ul > li{
+    list-style: circle;
     padding: 5px;
 }
 
@@ -31,4 +37,6 @@ li{
 div > section > h2 {
     color: rgb(255, 252, 252);
     font-weight: 600;
+    padding-bottom: 20px;
 }
+

@@ -1,5 +1,9 @@
 .Projects {
+    
     background-image: linear-gradient(to right top, #090909, #0d1318, #071b22, #002325, #002b20, #002c21, #012c21, #012d22, #002729, #0c2027, #15191f, #141414);
+    /*
+    background-color: black;
+    */
     height: 1500px;
     color: thistle;
 }
@@ -18,7 +22,7 @@ a {
 }
 
 .ProjectsSection {
-    padding-top: 100px;
+    padding-top: 80px;
 }
 
 div > section > h2 {

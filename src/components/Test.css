@@ -1,5 +1,9 @@
 .Test {
+    
     background-image: linear-gradient(to right top, #0b200f, #001e19, #001c20, #001722, #0c121f, #0f111e, #11111e, #13101d, #0f1421, #091824, #041c25, #021f25);
+    /*
+    background-color: black;
+    */
     color: rgb(124, 203, 33);
     height: 1200px;
 }

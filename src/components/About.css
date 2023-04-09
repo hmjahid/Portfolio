@@ -1,0 +1,65 @@
+.About{
+    
+    background-image: linear-gradient(to right top, #0d130e, #091210, #071011, #040608, #080909, #0a0a0f, #0b0b10, #060608, #020202, #030506, #040506, #040e10);
+    /*
+    background-color: black;
+    */
+    color: rgb(255, 255, 255);
+    height: 1200px;
+    font-size: 24px;
+}
+
+.AboutHeading{
+    background-color: rgb(254, 254, 254);
+    margin: -10px 0px 0px 0px;
+    color: blue;
+    font-size: 32px;
+    box-shadow: 5px 5px 1px 5px black;
+    padding-bottom: 4px;
+}
+
+.AboutSection > .AboutDetails > ul {
+    justify-content: Center;
+    text-align: left;
+    list-style: circle;
+    padding-left: 500px;
+}
+
+.AboutSection > .AboutDetails > ul > li{
+    list-style: circle;
+    padding: 5px;
+}
+
+.AboutSection {
+    padding-top: 100px;
+}
+
+.AboutDetails {
+    display: flex;
+    justify-content: center;
+}
+
+div > section > h2 {
+    color: rgb(255, 252, 252);
+    font-weight: 600;
+   
+}
+
+div > section > h2,h3 {
+    display: block;
+}
+  
+#About > section > a > button {
+    padding: 10px;
+    border-radius: 10px ;
+    background-color: rgb(12, 189, 74);
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+
+#About > section > a > button:hover {
+    background-color: seagreen;
+    color: whitesmoke;
+    cursor: pointer;
+  }

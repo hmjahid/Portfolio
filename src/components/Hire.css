@@ -1,5 +1,9 @@
 .Hire {
+    
     background-image: linear-gradient(to right top, #090909, #0f0e15, #13111d, #161425, #19172d, #1a182e, #1a182e, #1b192f, #1a1828, #181721, #16151b, #141414);
+    /*
+    background-color: black;
+    */
     color: rgb(124, 203, 33);
     height: 1200px;
 }
@@ -19,17 +23,18 @@ a {
 }
 
 .HireSection {
-    padding-top: 400px;
+    padding-top: 200px;
 }
 
 div > section > h2 {
     color: rgb(255, 255, 255);
     font-weight: 600;
+    padding-bottom: 30px;
 }
 
 .HireSection > a > button {
     padding: 10px;
-    width: 150px;
+    width: 190px;
     font-weight: bold;
     cursor: pointer;
 }

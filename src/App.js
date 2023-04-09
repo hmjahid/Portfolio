@@ -13,6 +13,8 @@ import Navbar from './components/Navbar';
 import Hire from './components/Hire';
 import Contact from './components/Contact';
 import Projects from './components/Projects';
+import CV from './components/Md Jahid Hasan_CV.pdf';
+import About from './components/About';
 
 function App() {
   const dateOfBirth = "1st September, 1996"
@@ -45,17 +47,24 @@ function App() {
       */}
     
       <img className='ProfilePhoto' src={MdJahidHasan} alt="Md Jahid Hasan" style={{height: "400px", width: "304px"}}/>
+
+      <section className='TopDownload'> 
+        <a href={CV} download><button>DOWNLOAD RESUME</button></a>
+        &nbsp; &nbsp;
+        <a href="#About"><button>ABOUT ME</button></a>
+        </section>
+
       <h1 id='Name'>Md Jahid Hasan</h1>
       <h2 className='Profession'>Front-End Developer</h2>
-      <p className='About'>
-        I am a qualified and professional Front-End Web Developer with experience in website design. Strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a detail-oriented and result-oriented who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in Linux environment. I am excited to learn new technology.
+      <p className='ProfileAbout'>
+        I am a qualified and professional Front-End Web Developer with experience in website design. Strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in Linux environment. I am excited to learn new technology.
       </p>
 
       <br/>
       <br/>
 
       <section className='FollowMe'>
-      <h3 className='FollowMe'>Follow Me :</h3>
+      <h3 className='FollowMe'><u>Follow Me</u> :</h3>
       <a href='https://www.linkedin.com/in/md-jahid-hasan-584712243/' target='_blank'><button>Linkedin</button></a> &nbsp;&nbsp;
       <a href='https://github.com/hmjahid' target='_blank'><button>Github</button></a> &nbsp;&nbsp; 
       <a href='https://twitter.com/mdjahidhasan919' target='_blank'><button>Twitter</button></a> &nbsp;&nbsp; 
@@ -68,11 +77,13 @@ function App() {
     */}
     </div>
 
+    <About />
+    
+    <Projects />
+
     <div className='SkillDiv'>
          <Skills title= "Skills"/>
-      </div>
-
-    <Projects />
+    </div>
       
       <Experience 
           position1="Office Assistant Cum Computer Operator"
@@ -87,9 +98,9 @@ function App() {
 
       <Test/>
 
-      <Hire/>
-
       <Contact/>
+
+      <Hire/>
       
     </div>
   );

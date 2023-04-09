@@ -3,9 +3,11 @@ import './Test.css';
 const Test = () => {
   return (
     <div className="Test" id='Test'>
-        <h2 className='TestHeading'>Tests</h2>
+
+        {/** <h2 className='TestHeading'>Tests</h2> */}
+
         <section className='TestSection'>
-        <h2 style={{color: "white"}}><u>Tests I Tested :</u></h2>
+        <h2 style={{color: "white", fontSize: "32px"}}><u>Tests I Tested</u> :</h2>
         <h3>EF Standard English Test (EF SET)</h3>
         <h4> * March 2023 *</h4>
         <a href="https://www.efset.org/"><h5>EFSET.ORG</h5></a>

@@ -5,10 +5,11 @@ import propTypes from 'prop-types'
 const Experience = (props) => {
   return (
     <div className='Experience' id="Experience">
-        <h2 className="ExperienceHeading">Experiences</h2>
+    
+        {/** <h2 className="ExperienceHeading">Experiences</h2> */}
 
         <section className="ExperienceSection">
-        <h2 className="SubHeading" style={{color: "lightpink"}}><u>My Previous Work Experiences :</u></h2>
+        <h2 className="SubHeading" style={{color: "lightpink", fontSize: "32px"}}><u>My Previous Work Experiences</u> :</h2>
         <div className='ExperienceDetails'>
         <h3 className='title'>{props.position2}</h3>
         <Company company={props.company}/>
