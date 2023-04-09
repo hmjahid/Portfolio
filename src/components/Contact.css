@@ -38,7 +38,7 @@ div > section > h2 {
 }
 
 .ContactSection > a > button:hover {
-    background-color: rgb(166, 73, 11);
+    background-color: orangered;
     color: white;
     border: 2px solid rgb(235, 240, 243);
     cursor: pointer;

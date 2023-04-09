@@ -3,8 +3,9 @@ import './Navbar.css';
 const Navbar = () => {
   return (
     <section className='NavigationBar'>
-          <h2 style={{color: "green", margin: "0px", backgroundColor: "white", padding:"5px", fontWeight:"bold", fontSize: "24px"}}>*** Starting By The Name Of Almighty ALLAH ***</h2>
-
+        {/** 
+        <h2 style={{color: "green", margin: "0px", backgroundColor: "white", padding:"5px", fontWeight:"bold", fontSize: "24px"}}>*** Starting By The Name Of Almighty ALLAH ***</h2>
+        */}
         <ul>
           <li onClick={() => window.location.reload('#Intro')}><a href=''>HOME</a></li>
           <li><a href='#About'>ABOUT</a></li>

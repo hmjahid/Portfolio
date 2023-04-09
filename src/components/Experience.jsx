@@ -14,8 +14,7 @@ const Experience = (props) => {
         <h3 className='title'>{props.position2}</h3>
         <Company company={props.company}/>
         <h4>* April 2016 - April 2022 *</h4>
-        <p> I worked as “GOODWAY GCL2BL 2axis CNC Lathe” operator, machinist and programmer. I also worked as 3 axis CNC Milling CINCINNATI, AKIRA-SEIKI operator and machinist.
-          I was in charge of a small team of 5-6 people. I learned a lot from that company. I have gained huge experience on industrial culture, how chain of discipline are operated, leadership, team work and mutual co-operation. I worked as “GOODWAY GCL2BL 2axis CNC Lathe” operator, machinist and programmer.I also worked as 3 axis CNC Milling CINCINNATI, AKIRA-SEIKI operator and machinist. I was in charge of a small team of 5-6 people. I learned a lot from that company. I have gained huge experience on industrial culture, how chain of discipline are operated, leadership, team work and mutual co-operation.</p>
+        <p> I worked as “GOODWAY GCL2BL 2axis CNC Lathe” operator, machinist and programmer. I also worked as 3 axis CNC Milling CINCINNATI, AKIRA-SEIKI operator and machinist. I was in charge of a small team of 5-6 people. I learned a lot from that company. I have gained huge experience on industrial culture, how chain of discipline are operated, leadership, team work and mutual co-operation.</p>
         <strong>Skills: CNC Machine · Quality Assurance · Machining · Team Leadership · Lathe · Computer Numerical Control CNC · CNC Manufacturing · CNC Mill · CNC Operation</strong>
         </div>
 

@@ -19,18 +19,22 @@ const Hire = () => {
         <br/>
         <br/>
 
-        <a href="https://www.upwork.com/"><button>HIRE ON UPWORK</button></a>
+        <a href="https://www.upwork.com/" target='_blank'><button>HIRE ON UPWORK</button></a>
 
         <br/>
         <br/>
 
-        <a href="https://www.freelancer.com/"><button>HIRE ON FREELANCER</button></a>
+        <a href="https://www.freelancer.com/" target='_blank'><button>HIRE ON FREELANCER</button></a>
 
         <br/>
         <br/>
 
-        <a href="https://www.fiver.com/"><button>HIRE ON FIVER</button></a>
+        <a href="https://www.fiver.com/" target='_blank'><button>HIRE ON FIVER</button></a>
         </section>
+
+        <footer>
+        <a href="#Intro"><button>GO TOP</button></a> 
+        </footer>
     </div>
   )
 }

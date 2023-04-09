@@ -21,6 +21,9 @@ const Contact = () => {
         <br/>
         <br/>
         <a href="tel:+8801960576371" target='_blank'><button>Direct Call (2)</button></a> 
+        <br/>
+        <br/>
+        <a href="#HireMe"><button>HIRE ME</button></a> 
         </section>
     </div>
   )
