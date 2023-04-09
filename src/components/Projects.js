@@ -3,9 +3,11 @@ import './Projects.css';
 const Projects = () => {
   return (
     <div className="Projects" id='Projects'>
-        <h2 className='ProjectsHeading'>Projects</h2>
+
+        {/** <h2 className='ProjectsHeading'>Projects</h2> */}
+
         <section className='ProjectsSection'>
-        <h2 style={{color: "white"}}><u>My Projects</u></h2>
+        <h2 style={{color: "white", fontSize: "32px"}}><u>My Works</u> :</h2>
 
       <div className='ProjectDetils'>
         

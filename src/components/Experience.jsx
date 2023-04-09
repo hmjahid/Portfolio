@@ -5,16 +5,16 @@ import propTypes from 'prop-types'
 const Experience = (props) => {
   return (
     <div className='Experience' id="Experience">
-        <h2 className="ExperienceHeading">Experiences</h2>
+    
+        {/** <h2 className="ExperienceHeading">Experiences</h2> */}
 
         <section className="ExperienceSection">
-        <h2 className="SubHeading" style={{color: "lightpink"}}><u>My Previous Work Experiences :</u></h2>
+        <h2 className="SubHeading" style={{color: "lightpink", fontSize: "32px"}}><u>My Previous Work Experiences</u> :</h2>
         <div className='ExperienceDetails'>
         <h3 className='title'>{props.position2}</h3>
         <Company company={props.company}/>
         <h4>* April 2016 - April 2022 *</h4>
-        <p> I worked as “GOODWAY GCL2BL 2axis CNC Lathe” operator, machinist and programmer. I also worked as 3 axis CNC Milling CINCINNATI, AKIRA-SEIKI operator and machinist.
-          I was in charge of a small team of 5-6 people. I learned a lot from that company. I have gained huge experience on industrial culture, how chain of discipline are operated, leadership, team work and mutual co-operation. I worked as “GOODWAY GCL2BL 2axis CNC Lathe” operator, machinist and programmer.I also worked as 3 axis CNC Milling CINCINNATI, AKIRA-SEIKI operator and machinist. I was in charge of a small team of 5-6 people. I learned a lot from that company. I have gained huge experience on industrial culture, how chain of discipline are operated, leadership, team work and mutual co-operation.</p>
+        <p> I worked as “GOODWAY GCL2BL 2axis CNC Lathe” operator, machinist and programmer. I also worked as 3 axis CNC Milling CINCINNATI, AKIRA-SEIKI operator and machinist. I was in charge of a small team of 5-6 people. I learned a lot from that company. I have gained huge experience on industrial culture, how chain of discipline are operated, leadership, team work and mutual co-operation.</p>
         <strong>Skills: CNC Machine · Quality Assurance · Machining · Team Leadership · Lathe · Computer Numerical Control CNC · CNC Manufacturing · CNC Mill · CNC Operation</strong>
         </div>
 

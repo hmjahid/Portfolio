@@ -1,5 +1,6 @@
 .NavigationBar {
     height: 110px;
+    padding: 10px 0px 10px 0px;
   }
   
   .NavigationBar > ul  {
@@ -17,7 +18,7 @@
   }
   
   .NavigationBar > ul > li > a {
-    padding: 15px 25px 15px 25px;
+    padding: 15px 20px 15px 20px;
     cursor: pointer; 
   }
   
@@ -25,9 +26,16 @@
     font-size: 24px;
     border-radius: 20px;
     background-color: #ff683a;
-    padding: 15px 25px 15px 25px;
+    padding: 15px 20px 15px 20px;
     border-radius: 28px;
     cursor: pointer; 
   }
   
-  
+  .Active {
+    font-size: 24px;
+    border-radius: 20px;
+    background-color: #ff683a;
+    padding: 15px 25px 15px 25px;
+    border-radius: 28px;
+    cursor: pointer; 
+  }

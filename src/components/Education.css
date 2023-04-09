@@ -1,11 +1,19 @@
 .Education{
+    
     background-image: linear-gradient(to right top, #191c1a, #151918, #121616, #0f1214, #0c0d10, #0c0d10, #0d0c10, #0d0c10, #0f1114, #111417, #13181a, #151b1c);
+    /*
+    background-color: black;
+    */
     color: white;
     height: 1200px;
 }
 
 .courseDetails2{
     padding-top: 5px;
+}
+
+.courseDetails1{
+    padding-top: 50px;
 }
 
 .EducationHeading {

@@ -3,9 +3,11 @@ import "./Education.css"
 const Education = () => {
   return (
     <div className="Education" id="Education">
-        <h2 className="EducationHeading">Education</h2>
+
+        {/** <h2 className="EducationHeading">Education</h2> */}
+        
         <section className="EducationSection">
-        <h2 style={{color: "deepskyblue"}}><u>My Educational Qualifications :</u></h2>
+        <h2 style={{color: "deepskyblue", fontSize: "32px"}}><u>My Academic Educations</u> :</h2>
         <div className="courseDetails2">
             <h3>Higher Secondary Certificate (H.S.C)</h3>
             <h4>* 2011-2012 *</h4>

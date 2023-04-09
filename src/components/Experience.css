@@ -1,13 +1,17 @@
 .Experience{
+    
     background-image: linear-gradient(to right top, #051a0e, #021c19, #071d21, #111e26, #1b1e27, #1c1e26, #1d1d26, #1e1d25, #181c24, #111b22, #0a191f, #03181a);
-    color:seashell;
+    /*
+    background-color: black;
+    */
+    color:rgb(255, 255, 255);
     padding: 2px 0px 20px 0px;
     height: 1200px;
 }
 
 .title{
     font-size: 28px;
-    color: rgb(233, 217, 232);
+    color: rgb(255, 255, 255);
     font-style: italic;
 }
 
@@ -29,10 +33,11 @@
 
 p {
     padding: 0px 200px 0px 200px;
+    color: white;
 }
 
 div > section > h2 {
-    color: rgb(227, 216, 216);
+    color: rgb(255, 255, 255);
     font-weight: 600;
 }
 

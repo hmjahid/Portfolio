@@ -4,9 +4,11 @@ import propTypes from 'prop-types'
 const Skills = (props) => {
   return (
     <div className='Skill' id="Skill">
-      <h2 className="SkillHeading">{props.title}</h2>
+
+      {/** <h2 className="SkillHeading">{props.title}</h2> */}
+
       <section className="SkillSection">
-      <h2 style={{color: "lightblue"}}><u>My Tech Skills :</u></h2>
+      <h2 style={{color: "lightblue", fontSize: "32px"}}><u>My Tech Skills</u> :</h2>
       <ul>
         <li>HTML5</li>
         <li>CSS3</li>

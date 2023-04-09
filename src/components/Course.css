@@ -1,5 +1,9 @@
 .Course {
+    
     background-image: linear-gradient(to right top, #141e17, #101f1d, #111f22, #151f25, #1c1e26, #1c1d24, #1c1c23, #1c1b21, #17191f, #12171c, #0d1518, #071214);
+    /*
+    background-color: black;
+    */
     color: blanchedalmond;
     height: 1200px;
 }
@@ -29,8 +33,8 @@ div > section > h2 {
 }
 
 .CourseSection > a > button:hover {
-    background-color: rgb(86, 252, 61);
-    color: rgb(3, 3, 3);
+    background-color: orangered;
+    color: white;
     border: 2px solid rgb(1, 128, 255);
     cursor: pointer;
 }
