@@ -63,3 +63,7 @@ footer > a > button:hover {
     border: 2px solid rgb(248, 250, 252);
     cursor: pointer;
 }
+
+.UpArrowKey {
+    font-size: 16px;
+}
