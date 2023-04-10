@@ -1,15 +1,16 @@
-.Language{
+.Language {
     
     background-image: linear-gradient(to right top, #0d130e, #091210, #071011, #080d10, #090a0e, #0a0a0f, #0b0b10, #0c0b11, #0c0f15, #0a1219, #07151b, #04181c);
     /*
     background-color: black;
+    height: 1200px;
     */
     color: rgb(255, 255, 255);
-    height: 1200px;
     font-size: 24px;
+    padding-bottom: 100px;
 }
 
-.LanguageHeading{
+.LanguageHeading {
     background-color: rgb(254, 254, 254);
     margin: -10px 0px 0px 0px;
     color: blue;
@@ -18,23 +19,30 @@
     padding-bottom: 4px;
 }
 
-.LanguageSection > ul{
+.LanguageDetails {
+    display: flex;
+    justify-content: center; 
+}
+
+.LanguageSection > ul {
     justify-content: Center;
     text-align: left;
     list-style: circle;
-    padding-left: 800px; 
+    float: left;
 }
 
-.LanguageSection > ul > li{
+.LanguageSection > ul > li {
     list-style: circle;
     padding: 5px;
 }
 
 .LanguageSection {
-    padding-top: 250px;
+    display: flexbox; 
+    padding-top: 100px;
 }
 
-div > section > h2 {
+.Language > .LanguageSection > h2 {
+    justify-content: center;
     color: rgb(255, 252, 252);
     font-weight: 600;
     padding-bottom: 20px;

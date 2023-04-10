@@ -8,12 +8,14 @@ const Language = () => {
 
      <section className='LanguageSection'>
      <h2 style={{color : "ivory", fontSize: "32px"}}><u>My Language Proficiency</u> :</h2>
-     <ul>
-        <li>Bengali (Native)</li>
-        <li>English (Working Proficiency)</li>
-        <li>Hindi (Working Proficiency)</li>
-        <li>Bahasa Melayu (Working Proficiency)</li>
-      </ul>
+     <div className='LanguageDetails'>
+        <ul>
+            <li>Bengali (Native)</li>
+            <li>English (Working Proficiency)</li>
+            <li>Hindi (Working Proficiency)</li>
+            <li>Bahasa Melayu (Working Proficiency)</li>
+          </ul>
+      </div>
      </section>
     </div>
   )

@@ -3,10 +3,10 @@
     background-image: linear-gradient(to right top, #051a0e, #021c19, #071d21, #111e26, #1b1e27, #1c1e26, #1d1d26, #1e1d25, #181c24, #111b22, #0a191f, #03181a);
     /*
     background-color: black;
+    height: 1200px;
     */
     color:rgb(255, 255, 255);
-    padding: 2px 0px 20px 0px;
-    height: 1200px;
+    padding-bottom: 100px;
 }
 
 .title{
@@ -28,11 +28,11 @@
 }
 
 .ExperienceSection {
-    padding-top: 120px;
+    padding-top: 100px;
 }
 
 p {
-    padding: 0px 200px 0px 200px;
+    padding: 0px 20px 0px 20px;
     color: white;
 }
 
