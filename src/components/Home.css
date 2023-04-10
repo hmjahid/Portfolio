@@ -1,21 +1,30 @@
 .Intro{
-  
-  
-    background-image: linear-gradient(to right top, #204530, #073c38, #05323a, #122734, #191d28, #181b24, #17181f, #16161b, #16191e, #171c20, #191f22, #1b2223);
+
     /*
+    background-image: linear-gradient(to right top, #204530, #073c38, #05323a, #122734, #191d28, #181b24, #17181f, #16161b, #16191e, #171c20, #191f22, #1b2223);
+   
     background-color: black;
     */
     padding-bottom: 16px;
     height: 1200px;
-  }
+    background: url('./MdJahidHasan.png');
+    background-repeat: no-repeat;
+    background-position: inherit;
+    background-size: 304px 400px;
+    background-position-x: center;
+    background-position-y: 120px;
+}
+  
   
   #Name{
     font-size: 48px;
     color: rgb(255, 255, 255);
+    padding-top: 372px;
   }
   
   .Profession{
     color:snow;
+    margin-top: -30px;
   }
   
   marquee {
