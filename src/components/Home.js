@@ -1,7 +1,7 @@
 import './Home.css';
 import Navbar from "./Navbar";
 import CV from './Md Jahid Hasan_CV.pdf';
-import MdJahidHasan from './MdJahidHasan.jpg';
+import MdJahidHasan from './MdJahidHasan.jpeg';
 
 const Home = () => {
   return (
