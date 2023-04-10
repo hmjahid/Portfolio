@@ -3,9 +3,10 @@
     background-image: linear-gradient(to right top, #141e17, #101f1d, #111f22, #151f25, #1c1e26, #1c1d24, #1c1c23, #1c1b21, #17191f, #12171c, #0d1518, #071214);
     /*
     background-color: black;
-    */
-    color: blanchedalmond;
     height: 1200px;
+    */
+    color: blanchedalmond;   
+    padding-bottom: 100px;
 }
 
 .CourseHeading {
@@ -17,7 +18,7 @@
 }
 
 .CourseSection {
-    padding-top: 200px;
+    padding-top: 100px;
 }
 
 div > section > h2 {

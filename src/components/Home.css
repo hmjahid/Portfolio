@@ -4,15 +4,16 @@
     background-image: linear-gradient(to right top, #204530, #073c38, #05323a, #122734, #191d28, #181b24, #17181f, #16161b, #16191e, #171c20, #191f22, #1b2223);
    
     background-color: black;
-    */
-    padding-bottom: 16px;
     height: 1200px;
+    */
+
     background: url('./MdJahidHasan.png');
     background-repeat: no-repeat;
     background-position: inherit;
     background-size: 304px 400px;
     background-position-x: center;
     background-position-y: 120px;
+    padding-bottom: 100px;
 }
   
   
@@ -34,7 +35,7 @@
   }
   
   .ProfileAbout {
-    padding: 0px 100px 0px 100px;
+    padding: 0px 20px 0px 20px;
     color: whitesmoke;
     font-size: 24px;
   }
@@ -112,3 +113,30 @@
     border-radius: 8px solid rgb(255, 252, 252);
     cursor: pointer;
   }
+
+   /* Extra small devices (phones, 600px and down) */
+   @media only screen and (max-width: 600px) {
+    .Intro {
+      background-position-y: 725px;
+    }
+  }
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+  }
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+  }
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+  }
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+  } 

@@ -2,6 +2,7 @@ import './Home.css';
 import Navbar from "./Navbar";
 import CV from './Md Jahid Hasan_CV.pdf';
 import MdJahidHasan from './MdJahidHasan.png';
+import BootstrapNavbar from './BootstrapNavbar';
 
 const Home = () => {
   return (
@@ -10,7 +11,9 @@ const Home = () => {
       <Navbar />
 
       {/** 
-      
+
+      <BootstrapNavbar />
+
       <iframe className='ProfilePhoto' src="https://www.dropbox.com/home/Photos?preview=Md+Jahid+Hasan+Low.jpg" height="400" width="304" title="Md Jahid Hasan" target="_blank"></iframe>
       
       

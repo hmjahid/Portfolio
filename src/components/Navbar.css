@@ -1,12 +1,13 @@
 .NavigationBar {
-    height: 110px;
-    padding: 10px 0px 10px 0px;
+    display: flex;
+    overflow: hidden;
   }
   
   .NavigationBar > ul  {
     align-items: left;
     justify-content: space-between;
     text-align: left;
+    flex-direction: column;
   }
 
   .NavigationBar > ul > li {
@@ -19,6 +20,9 @@
   
   .NavigationBar > ul > li > a {
     padding: 15px 20px 15px 20px;
+    float: left;
+    display: block;
+    text-align: center;
     cursor: pointer; 
   }
   
@@ -36,6 +40,42 @@
     border-radius: 20px;
     background-color: #ff683a;
     padding: 15px 25px 15px 25px;
+    margin-left: 75px;
     border-radius: 28px;
     cursor: pointer; 
   }
+
+   /* Extra small devices (phones, 600px and down) */
+    @media only screen and (max-width: 600px) {
+      .NavigationBar > ul > li > a {
+        float: none;
+        text-align: center;
+        padding-left: 20px;
+        margin-left: 15px;
+      }
+
+      .Active {
+        margin-left: 10px;
+      }
+
+    }
+
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+  @media only screen and (min-width: 600px) {
+
+    }
+
+  /* Medium devices (landscape tablets, 768px and up) */
+  @media only screen and (min-width: 768px) {
+
+    }
+
+  /* Large devices (laptops/desktops, 992px and up) */
+  @media only screen and (min-width: 992px) {
+
+    }
+
+  /* Extra large devices (large laptops and desktops, 1200px and up) */
+  @media only screen and (min-width: 1200px) {
+
+    } 

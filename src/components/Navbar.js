@@ -17,7 +17,7 @@ const Navbar = () => {
           <li><a href='#Language'>LANGUAGES</a></li>
           <li><a href='#Test'>TESTS</a></li>
           <li><a href='#ContactMe'>CONTACT</a></li>
-          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+          &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
           <li><a href='#HireMe' className='Active'>HIRE ME</a></li>
         </ul>
     </section>

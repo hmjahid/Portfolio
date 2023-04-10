@@ -3,11 +3,11 @@
     background-image: linear-gradient(to right top, #0e1812, #051917, #00191e, #031824, #101526, #121425, #141424, #151323, #0d1421, #07151d, #051419, #081314);
     /*
     background-color: black;
-    */
-    padding: 10px 30px 20px 0px;
-    color:rgb(251, 251, 251);
     height: 1200px;
+    */
+    color:rgb(251, 251, 251);
     font-size: 24px;
+    padding-bottom: 100px;
 }
 
 .SkillHeading{
@@ -30,7 +30,7 @@ li{
 }
 
 .SkillSection {
-    padding-top: 200px;
+    padding-top: 100px;
 }
 
 div > section > h2 {

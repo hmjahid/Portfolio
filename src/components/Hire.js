@@ -32,7 +32,7 @@ const Hire = () => {
         <a href="https://www.fiver.com/" target='_blank'><button>HIRE ON FIVER</button></a>
         </section>
 
-        <footer>
+        <footer className='FooterSection'>
         <a href="#Intro"><button><span className='UpArrowKey'>&#8593;</span> GO TOP <span className='UpArrowKey'>&#8593;</span></button></a> 
         </footer>
     </div>
