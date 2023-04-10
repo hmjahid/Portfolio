@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4a6b8dac.css",
-    "main.js": "/static/js/main.5c9cabef.js",
+    "main.css": "/static/css/main.6e339c1c.css",
+    "main.js": "/static/js/main.0054b01d.js",
     "static/media/MdJahidHasan.png": "/static/media/MdJahidHasan.4e25d735c849a841d365.png",
     "static/media/Md Jahid Hasan_CV.pdf": "/static/media/Md Jahid Hasan_CV.82bcca6db6f58751fe62.pdf",
     "index.html": "/index.html",
-    "main.4a6b8dac.css.map": "/static/css/main.4a6b8dac.css.map",
-    "main.5c9cabef.js.map": "/static/js/main.5c9cabef.js.map"
+    "main.6e339c1c.css.map": "/static/css/main.6e339c1c.css.map",
+    "main.0054b01d.js.map": "/static/js/main.0054b01d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4a6b8dac.css",
-    "static/js/main.5c9cabef.js"
+    "static/css/main.6e339c1c.css",
+    "static/js/main.0054b01d.js"
   ]
 }
