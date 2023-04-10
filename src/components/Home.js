@@ -1,7 +1,7 @@
 import './Home.css';
 import Navbar from "./Navbar";
 import CV from './Md Jahid Hasan_CV.pdf';
-import MdJahidHasan from './MdJahidHasan.jpeg';
+import MdJahidHasan from './MdJahidHasan.png';
 
 const Home = () => {
   return (
@@ -9,6 +9,10 @@ const Home = () => {
 
       <Navbar />
 
+      {/** 
+      <iframe className='ProfilePhoto' src="https://www.dropbox.com/home/Photos?preview=Md+Jahid+Hasan+Low.jpg" height="400" width="304" title="Md Jahid Hasan" target="_blank"></iframe>
+      */}
+      
       <img className='ProfilePhoto' src={MdJahidHasan} alt="Md Jahid Hasan" style={{height: "400px", width: "304px"}}/>
 
       <h1 id='Name'>Md Jahid Hasan</h1>
