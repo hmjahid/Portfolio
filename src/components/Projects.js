@@ -14,16 +14,6 @@ const Projects = () => {
       <br/>
 
         <div className='Project1'>
-          <h3>Project Name : Portfolio</h3>
-          <h4>Used Technology : HTML , CSS , JavaScript , React.js</h4>
-          <a href='https://github.com/hmjahid/Portfolio' target='_blank'><button>Source Code</button></a> &nbsp;&nbsp;
-          <a href='https://hmjahid.netlify.app/' target='_blank'><button>Live Site </button></a>
-        </div>
-
-        <br/>
-        <br/>
-
-        <div className='Project2'>
           <h3>Project Name : My First React App</h3>
           <h4>Used Technology : HTML , CSS , JavaScript , React.js</h4>
           <a href='https://github.com/hmjahid/My-First-React-App' target='_blank'><button>Source Code</button></a> &nbsp;&nbsp;
@@ -33,7 +23,7 @@ const Projects = () => {
         <br/>
         <br/>
         
-        <div className='Project3'>
+        <div className='Project2'>
           <h3>Project Name : To Do App</h3>
           <h4>Used Technology : HTML , CSS , JavaScript , CDN</h4>
           <a href='https://github.com/hmjahid/To-Do-App' target='_blank'><button>Source Code</button></a> &nbsp;&nbsp;
@@ -43,7 +33,7 @@ const Projects = () => {
         <br/>
         <br/>
         
-        <div className='Project4'>
+        <div className='Project3'>
           <h3>Project Name : Farmers Kingdom Web Application</h3>
           <h4>Used Technology : HTML , CSS , Bootstrap , CDN , AJAX , API , Google API , Windy API , Font-Awesome</h4>
           <a href='https://github.com/hmjahid/FarmersKingdom' target='_blank'><button>Source Code</button></a> &nbsp;&nbsp;
@@ -53,7 +43,7 @@ const Projects = () => {
         <br/>
         <br/>
 
-        <div className='Project5'>
+        <div className='Project4'>
           <h3>Project Name : SoftTech - Software Development Company Website Clone</h3>
           <h4>Used Technology : HTML , CSS</h4>
           <a href='https://github.com/hmjahid/SoftTech' target='_blank'><button>Source Code</button></a> &nbsp;&nbsp;
