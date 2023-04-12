@@ -40,28 +40,34 @@
     border-radius: 20px;
     background-color: #ff683a;
     padding: 15px 25px 15px 25px;
-    margin-left: 75px;
+    margin-left: 100px;
     border-radius: 28px;
     cursor: pointer; 
   }
 
-   /* Extra small devices (phones, 600px and down) */
-    @media only screen and (max-width: 600px) {
+  /* Extra small devices (phones, 600px and down) */
+  @media only screen and (max-width: 600px) {
       .NavigationBar > ul > li > a {
         float: none;
         text-align: center;
         padding-left: 20px;
         margin-left: 15px;
+        justify-content: center;
+        justify-items: center;
       }
 
       .Active {
-        margin-left: 10px;
+        margin: 15px 0px 0px 10px;
       }
 
     }
 
   /* Small devices (portrait tablets and large phones, 600px and up) */
   @media only screen and (min-width: 600px) {
+    .NavigationBar > ul > li > a {
+      margin-top: 20px; 
+    }
+    
 
     }
 
