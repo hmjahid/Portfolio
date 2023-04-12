@@ -26,7 +26,6 @@ const About = () => {
           </ul>
       </div>
       <a href={CV} download><button>DOWNLOAD RESUME</button></a>
-      &nbsp; &nbsp;
       <a href="#ContactMe"><button>CONTACT ME</button></a>
       { /** 
       &nbsp; &nbsp;

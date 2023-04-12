@@ -32,6 +32,7 @@ div > section > h2 {
 }
 
 .ContactSection > a > button {
+    margin-top: 20px;
     padding: 10px;
     width: 150px;
     font-weight: bold;
@@ -44,3 +45,28 @@ div > section > h2 {
     border: 2px solid rgb(235, 240, 243);
     cursor: pointer;
 }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+  }
+  
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+
+  }
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+  }
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+  }
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+
+  } 
