@@ -115,10 +115,12 @@
     cursor: pointer;
   }
 
+
+
    /* Extra small devices (phones, 600px and down) */
    @media only screen and (max-width: 600px) {
     .Intro {
-      background-position-y: 725px;
+      background-position-y: 772px;
     }
 
     .TopDownload > a > button {
@@ -129,12 +131,16 @@
     .FollowMe > a > button {
       margin-top: 20px;
     }
+
+    .ProfileSection {
+      padding-top: 100px;
+    }
   }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .Intro {
-    background-position-y: 360px;
+    background-position-y: 440px;
   }
 
   .TopDownload > a > button {
@@ -147,14 +153,14 @@
   }
 
   .ProfileSection {
-    padding-top: 84px;
+    padding-top: 160px;
   }
   }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   .Intro {
-    background-position-y: 280px;
+    background-position-y: 350px;
   }
 
   .TopDownload > a > button {
@@ -167,30 +173,14 @@
   }
 
   .ProfileSection {
-    padding-top: 84px;
+    padding-top: 140px;
   }
   }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   .Intro {
-    background-position-y: 200px;
-  }
-
-  .TopDownload > a > button {
-    margin-top: 20px;
-  }
-
-
-  .FollowMe > a > button {
-    margin-top: 20px;
-  }
-  }
-
-/* Extra large devices (large laptops and desktops, 1200px and up) */
-@media only screen and (min-width: 1200px) {
-  .Intro {
-    background-position-y: 200px;
+    background-position-y: 240px;
   }
 
   .TopDownload > a > button {
@@ -203,6 +193,46 @@
   }
 
   .ProfileSection {
-    padding-top: 84px;
+    padding-top: 64px;
+  }
+  }
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .Intro {
+    background-position-y: 240px;
+  }
+
+  .TopDownload > a > button {
+    margin-top: 20px;
+  }
+
+
+  .FollowMe > a > button {
+    margin-top: 20px;
+  }
+
+  .ProfileSection {
+    padding-top: 64px;
   }
   } 
+
+ /* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1720px) {
+  .Intro {
+    background-position-y: 160px;
+  }
+
+  .TopDownload > a > button {
+    margin-top: 20px;
+  }
+
+
+  .FollowMe > a > button {
+    margin-top: 20px;
+  }
+
+  .ProfileSection {
+    padding-top: 64px;
+  }
+  }  
