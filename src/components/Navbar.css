@@ -1,6 +1,8 @@
 .NavigationBar {
     display: flex;
     overflow: hidden;
+    background-color:snow;
+    width: 100%;
   }
   
   .NavigationBar > ul  {
@@ -24,6 +26,7 @@
     display: block;
     text-align: center;
     cursor: pointer; 
+    color: black;
   }
   
   .NavigationBar > ul > li > a:hover {
@@ -33,6 +36,7 @@
     padding: 15px 20px 15px 20px;
     border-radius: 28px;
     cursor: pointer; 
+    color: honeydew;
   }
   
   .Active {
@@ -43,6 +47,7 @@
     margin-left: 100px;
     border-radius: 28px;
     cursor: pointer; 
+    color: honeydew !important;
   }
 
   /* Extra small devices (phones, 600px and down) */
@@ -88,8 +93,14 @@
   
   /* Extra large devices (large laptops and desktops, 1200px and up) */
   @media only screen and (min-width: 1720px) {
+    .NavigationBar {
+      position: fixed;
+      background-color:snow;
+      width: 100%;
+    }
+
     .NavigationBar > ul > li > a {
-      margin-top: 10px; 
+      margin-top: 0px; 
     }
   
   }   
