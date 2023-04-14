@@ -1,0 +1,95 @@
+Container {
+    display: flex;
+    position: relative;
+}
+
+form {
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+
+.form-control {
+    padding: 10px;
+    width: 775px;
+    color: black;
+    margin: 10px;
+}
+
+.ContactFormTitle {
+    text-align: center;
+    margin: 60px 0 20px 0 !important;
+    color: aliceblue;
+    font-size: 48px;
+  }
+
+div > form > button {
+    font-size: 24px;
+    margin-top: 20px;
+    padding: 10px;
+    padding-inline: 354px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color:powderblue;
+    position: relative;
+    justify-content: center;
+    justify-items: center;
+}  
+
+div > form > button:hover {
+    background-color: orangered;
+    color: white;
+    border: 2px solid rgb(235, 240, 243);
+    cursor: pointer;
+}  
+
+input[type=text] {
+    font-family:sans-serif;
+    font-weight: bold;
+}
+
+input[type=email] {
+    font-family:sans-serif;
+    font-weight: bold;
+}
+
+textarea {
+    font-family:sans-serif;
+    font-weight: bold;
+}
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+    div > form > button {
+        padding-inline: 100px;
+    }
+  }
+  
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+    div > form > button {
+        padding-inline: 250px;
+    } 
+  }
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    div > form > button {
+        padding-inline: 354px;
+    } 
+  }
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+    div > form > button {
+        padding-inline: 354px;
+    } 
+  }
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+    div > form > button {
+        padding-inline: 354px;
+    } 
+  } 

@@ -21,7 +21,7 @@
   }
   
   .NavigationBar > ul > li > a {
-    padding: 15px 20px 15px 20px;
+    padding: 10px 20px;
     float: left;
     display: block;
     text-align: center;
@@ -33,7 +33,7 @@
     font-size: 24px;
     border-radius: 20px;
     background-color: #ff683a;
-    padding: 15px 20px 15px 20px;
+    padding: 10px 20px;
     border-radius: 28px;
     cursor: pointer; 
     color: honeydew;
@@ -43,7 +43,7 @@
     font-size: 24px;
     border-radius: 20px;
     background-color: #ff683a;
-    padding: 15px 25px 15px 25px;
+    padding: 10px 20px;
     margin-left: 100px;
     border-radius: 28px;
     cursor: pointer; 
@@ -62,7 +62,7 @@
       }
 
       .Active {
-        margin: 15px 0px 0px 10px;
+        margin: 20px 0px 0px 10px;
       }
 
     }
@@ -70,7 +70,7 @@
   /* Small devices (portrait tablets and large phones, 600px and up) */
   @media only screen and (min-width: 600px) {
     .NavigationBar > ul > li > a {
-      margin-top: 20px; 
+      margin-top: 10px; 
     }
     
 
@@ -83,20 +83,22 @@
 
   /* Large devices (laptops/desktops, 992px and up) */
   @media only screen and (min-width: 992px) {
-
+    .NavigationBar {
+      position: fixed;
+    }
     }
 
   /* Extra large devices (large laptops and desktops, 1200px and up) */
   @media only screen and (min-width: 1200px) {
-
+    .NavigationBar {
+      position: fixed;
+    }
     } 
   
   /* Extra large devices (large laptops and desktops, 1200px and up) */
   @media only screen and (min-width: 1720px) {
     .NavigationBar {
       position: fixed;
-      background-color:snow;
-      width: 100%;
     }
 
     .NavigationBar > ul > li > a {
