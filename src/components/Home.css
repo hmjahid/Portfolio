@@ -19,12 +19,12 @@
   
   #Name{
     font-size: 48px;
-    color: magenta;
+    color:blanchedalmond;
     padding-top: 384px;
   }
   
   .Profession{
-    color:crimson;
+    color:cornsilk;
     margin-top: -30px;
   }
   
@@ -90,7 +90,7 @@
    /* Extra small devices (phones, 600px and down) */
    @media only screen and (max-width: 600px) {
     .Intro {
-      background-position-y: 772px;
+      background-position-y: 680px;
     }
 
     .TopDownload > a > button {
@@ -103,14 +103,14 @@
     }
 
     .ProfileSection {
-      padding-top: 100px;
+      padding-top: 120px;
     }
   }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .Intro {
-    background-position-y: 440px;
+    background-position-y: 350px;
   }
 
   .TopDownload > a > button {
@@ -123,14 +123,14 @@
   }
 
   .ProfileSection {
-    padding-top: 160px;
+    padding-top: 140px;
   }
   }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   .Intro {
-    background-position-y: 350px;
+    background-position-y: 240px;
   }
 
   .TopDownload > a > button {
@@ -150,7 +150,7 @@
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   .Intro {
-    background-position-y: 240px;
+    background-position-y: 220px;
   }
 
   .TopDownload > a > button {
@@ -163,14 +163,14 @@
   }
 
   .ProfileSection {
-    padding-top: 64px;
+    padding-top: 280px;
   }
   }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   .Intro {
-    background-position-y: 240px;
+    background-position-y: 220px;
   }
 
   .TopDownload > a > button {
@@ -183,7 +183,7 @@
   }
 
   .ProfileSection {
-    padding-top: 64px;
+    padding-top: 260px;
   }
   } 
 
