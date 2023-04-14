@@ -11,7 +11,6 @@ form {
 
 .form-control {
     padding: 10px;
-    width: 775px;
     color: black;
     margin: 10px;
 }
@@ -64,6 +63,10 @@ textarea {
     div > form > button {
         padding-inline: 100px;
     }
+
+    .form-control {
+        width: 267px;
+  } 
   }
   
 /* Small devices (portrait tablets and large phones, 600px and up) */
@@ -71,6 +74,10 @@ textarea {
     div > form > button {
         padding-inline: 250px;
     } 
+
+    .form-control {
+        width: 567px;
+  } 
   }
 
 /* Medium devices (landscape tablets, 768px and up) */
@@ -78,6 +85,10 @@ textarea {
     div > form > button {
         padding-inline: 354px;
     } 
+
+    .form-control {
+        width: 775px;
+  } 
   }
 
 /* Large devices (laptops/desktops, 992px and up) */
@@ -85,6 +96,10 @@ textarea {
     div > form > button {
         padding-inline: 354px;
     } 
+
+    .form-control {
+        width: 775px;
+  } 
   }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -92,4 +107,8 @@ textarea {
     div > form > button {
         padding-inline: 354px;
     } 
+
+    .form-control {
+        width: 775px;
   } 
+}
