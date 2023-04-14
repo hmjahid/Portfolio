@@ -150,7 +150,7 @@
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   .Intro {
-    background-position-y: 220px;
+    background-position-y: 200px;
   }
 
   .TopDownload > a > button {
@@ -163,14 +163,14 @@
   }
 
   .ProfileSection {
-    padding-top: 280px;
+    padding-top: 240px;
   }
   }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   .Intro {
-    background-position-y: 220px;
+    background-position-y: 200px;
   }
 
   .TopDownload > a > button {
@@ -183,14 +183,14 @@
   }
 
   .ProfileSection {
-    padding-top: 260px;
+    padding-top: 240px;
   }
   } 
 
  /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1720px) {
   .Intro {
-    background-position-y: 140px;
+    background-position-y: 120px;
   }
 
   .TopDownload > a > button {
@@ -203,6 +203,6 @@
   }
 
   .ProfileSection {
-    padding-top: 160px;
+    padding-top: 140px;
   }
   }  
