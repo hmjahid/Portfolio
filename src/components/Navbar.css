@@ -10,6 +10,7 @@
     justify-content: space-between;
     text-align: left;
     flex-direction: column;
+    margin: 5px;
   }
 
   .NavigationBar > ul > li {
@@ -21,7 +22,7 @@
   }
   
   .NavigationBar > ul > li > a {
-    padding: 10px 20px;
+    padding: 15px;
     float: left;
     display: block;
     text-align: center;
@@ -33,7 +34,6 @@
     font-size: 24px;
     border-radius: 20px;
     background-color: #ff683a;
-    padding: 10px 20px;
     border-radius: 28px;
     cursor: pointer; 
     color: honeydew;
@@ -43,7 +43,6 @@
     font-size: 24px;
     border-radius: 20px;
     background-color: #ff683a;
-    padding: 10px 20px;
     margin-left: 100px;
     border-radius: 28px;
     cursor: pointer; 
