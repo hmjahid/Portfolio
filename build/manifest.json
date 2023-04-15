@@ -19,6 +19,11 @@
     },
     {
       "src": "MdJahidHasan.png",
+      "type": "image/png",
+      "sizes": "1988x1536"
+    },
+    {
+      "src": "MdJahidHasan.jpg",
       "type": "image/jpeg",
       "sizes": "1988x1536"
     }
