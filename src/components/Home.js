@@ -22,10 +22,10 @@ const Home = () => {
       */}
 
       <div className='ProfileSection'>
-        <h1 id='Name'>Md Jahid Hasan</h1>
+        <h1 id='Name'><b>Md Jahid Hasan</b></h1>
         <h2 className='Profession'>Front-End Developer</h2>
         <p className='ProfileAbout'>
-          I am a qualified and professional Front-End Web Developer with experience in website design. Strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in Linux environment. I am excited to learn new technology.
+          I am a qualified and professional <span style={{color: "orangered"}}><b>Front-End Web Developer</b></span> with experience in website design. Strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in Linux environment. I am excited to learn new technology.
         </p>
 
         <section className='TopDownload'> 
