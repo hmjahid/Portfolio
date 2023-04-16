@@ -93,7 +93,7 @@
    /* Extra small devices (phones, 600px and down) */
    @media only screen and (max-width: 600px) {
     .Intro {
-      background-position-y: 750px;
+      background-position-y: 880px;
     }
 
     .TopDownload > a > button {
@@ -113,7 +113,7 @@
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
   .Intro {
-    background-position-y: 350px;
+    background-position-y: 420px;
   }
 
   .TopDownload > a > button {
@@ -133,7 +133,7 @@
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
   .Intro {
-    background-position-y: 240px;
+    background-position-y: 410px;
   }
 
   .TopDownload > a > button {
@@ -153,7 +153,7 @@
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
   .Intro {
-    background-position-y: 200px;
+    background-position-y: 330px;
   }
 
   .TopDownload > a > button {
@@ -166,14 +166,14 @@
   }
 
   .ProfileSection {
-    padding-top: 240px;
+    padding-top: 350px;
   }
   }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
   .Intro {
-    background-position-y: 200px;
+    background-position-y: 320px;
   }
 
   .TopDownload > a > button {
@@ -186,14 +186,14 @@
   }
 
   .ProfileSection {
-    padding-top: 240px;
+    padding-top: 350px;
   }
   } 
 
  /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1720px) {
   .Intro {
-    background-position-y: 120px;
+    background-position-y: 130px;
   }
 
   .TopDownload > a > button {

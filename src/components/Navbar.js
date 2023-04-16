@@ -11,8 +11,8 @@ const Navbar = () => {
         <h2 style={{color: "green", margin: "0px", backgroundColor: "white", padding:"5px", fontWeight:"bold", fontSize: "24px"}}>*** Starting By The Name Of Almighty ALLAH ***</h2>
         */}
 
-        <a href='#Intro' onClick={() => window.location.reload('#Intro')}>
-          <img src={LogoTransparent} alt='Logo' style={{height: '50px', width: '50px'}}/>
+        <a href='' onClick={() => window.location.reload('#Intro')}>
+          <img src={LogoTransparent} alt='Logo' style={{height: '50px', width: '50px'}} className='LogoImage'/>
         </a>
 
         <ul>
