@@ -1,8 +1,14 @@
+img {
+  padding: 8px 0px 5px 10px;
+  margin: 0px 0px 0px 10px;
+}
+
 .NavigationBar {
     display: flex;
     overflow: hidden;
-    background-color:snow;
+    background-color: azure;
     width: 100%;
+    padding: 2px 40px 0px 40px;
   }
   
   .NavigationBar > ul  {
@@ -32,7 +38,7 @@
   
   .NavigationBar > ul > li > a:hover {
     border-radius: 20px;
-    background-color: #ff683a;
+    background-color: orangered;
     border-radius: 28px;
     cursor: pointer; 
     color: honeydew;
@@ -40,8 +46,8 @@
   
   .Active {
     border-radius: 20px;
-    background-color: #ff683a;
-    margin-left: 80px;
+    background-color: orangered;
+    margin-left: 35px;
     border-radius: 28px;
     cursor: pointer; 
     color: honeydew !important;

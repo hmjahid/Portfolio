@@ -11,6 +11,7 @@ import Projects from './components/Projects';
 import About from './components/About';
 import Home from './components/Home';
 import Certifications from './components/Certifications';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -21,11 +22,11 @@ function App() {
 
     <About />
     
-    <Projects />
-
     <section className='SkillDiv'>
          <Skills title= "Skills"/>
     </section>
+
+    <Projects />
       
     <Experience 
           position1="Office Assistant Cum Computer Operator"
@@ -46,6 +47,8 @@ function App() {
     <Contact />
 
     <Hire />
+
+    <Footer />
       
     </section>
   );

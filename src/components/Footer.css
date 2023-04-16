@@ -1,0 +1,38 @@
+.Footer {
+    background-color: azure;
+    display:flexbox;
+    padding-right: 70px;
+}
+
+.FooterSection {
+    display: flex;
+    justify-content:space-between;
+    display: flex;
+}
+
+.FooterSection > a {
+   background-color:chartreuse;
+   justify-content: center;
+   justify-items: center;
+   padding: 10px 14px 0px 8px;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+.FooterSection > a > img {
+    height: 30px;
+    width: 30px;
+    padding: 5px;
+    justify-content: right;
+    justify-items: flex-end;
+}
+
+.FooterSection > a:hover {
+    background-color: #d51686;
+}
+
+
+.Copyright {
+    text-align: center;
+    padding-right: 100px;
+}

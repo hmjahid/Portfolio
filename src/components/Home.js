@@ -34,6 +34,8 @@ const Home = () => {
         </section>
       </div>
 
+      {/* 
+      
       <br/>
       <br/>
 
@@ -45,6 +47,8 @@ const Home = () => {
       <a href='https://www.facebook.com/mdjahidhasan52443' target='_blank'><button>Facebook</button></a>
       <a href='https://www.instagram.com/md_jahid_hasan52443/' target='_blank'><button>Instagram</button></a>
       </section>
+
+      */}
 
     </section>
   )

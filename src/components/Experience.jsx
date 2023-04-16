@@ -9,7 +9,7 @@ const Experience = (props) => {
         {/** <h2 className="ExperienceHeading">Experiences</h2> */}
 
         <section className="ExperienceSection">
-        <h2 className="SubHeading" style={{color: "lightpink", fontSize: "32px"}}><u>My Previous Work Experiences</u> :</h2>
+        <h2 className="SubHeading" style={{color: "lightpink", fontSize: "32px"}}><u>My Experiences</u> :</h2>
         <div className='ExperienceDetails'>
         <h3 className='title'>{props.position2}</h3>
         <Company company={props.company}/>

@@ -8,7 +8,7 @@ const Contact = () => {
         {/** <h2 className='ContactHeading'>Contact Me</h2> */}
 
         <section className='ContactSection'>
-        <h2 style={{color: "white", fontSize: "32px"}}><u>Want to Contact Me</u> ?</h2>
+        <h2 style={{color: "white", fontSize: "32px"}}><u>Contact Me</u> :</h2>
         <a href="https://join.skype.com/invite/ualzWlKSdoxS" target='_blank'><button>Skype</button></a>
         <br/>
         <a href="https://wa.me/+8801771749213" target='_blank'><button>WhatsApp</button></a>

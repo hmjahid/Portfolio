@@ -1,4 +1,8 @@
 import './Navbar.css';
+import Icons from './Icons.js';
+import Logo from './logo_image.jpg';
+import LogoTransparent from './logo_image_transparent.jpg';
+
 
 const Navbar = () => {
   return (
@@ -6,11 +10,16 @@ const Navbar = () => {
         {/** 
         <h2 style={{color: "green", margin: "0px", backgroundColor: "white", padding:"5px", fontWeight:"bold", fontSize: "24px"}}>*** Starting By The Name Of Almighty ALLAH ***</h2>
         */}
+
+        <a href='#Intro' onClick={() => window.location.reload('#Intro')}>
+          <img src={LogoTransparent} alt='Logo' style={{height: '50px', width: '50px'}}/>
+        </a>
+
         <ul>
-          <li onClick={() => window.location.reload('#Intro')}><a href=''>Home</a></li>
+          <li><a href='#Intro'>Home</a></li>
           <li><a href='#About'>About</a></li>
+          <li><a href='#Skill'>Skills</a></li>
           <li><a href='#Projects'>Works</a></li>
-          <li onClick={() => window.location.replace("#Skill")}><a href='#Skill'>Skills</a></li>
           <li><a href='#Experience'>Experiences</a></li>
           <li><a href='#Education'>Educations</a></li>
           <li><a href='#Certifications'>Certifications</a></li>
@@ -21,6 +30,8 @@ const Navbar = () => {
           
           <li><a href='#HireMe' className='Active'>Hire Me</a></li>
         </ul>
+
+        <Icons />
     </section>
   )
 }
