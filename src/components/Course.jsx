@@ -7,7 +7,7 @@ const Course = () => {
         {/** <h2 className="CourseHeading">Courses</h2> */}
         
         <section className="CourseSection">
-        <h2 style={{color: "lightgreen", fontSize: "32px"}}><u>Courses Completed By Me</u> :</h2>
+        <h2 style={{color: "lightgreen", fontSize: "32px"}}><u>Courses & Trainings</u> :</h2>
         <h3>Database Programming</h3>
         <h4> * July - December 2018 *</h4>
         <h5>Bangladesh Technical Education Board (BTEB)</h5>

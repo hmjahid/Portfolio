@@ -1,0 +1,41 @@
+.Certifications {
+    
+    background-image: linear-gradient(to right top, #051937, #00253d, #002d32, #00331d, #253604);
+    /*
+    background-color: black;
+    height: 1200px;
+    */
+    color: blanchedalmond;   
+    padding-bottom: 100px;
+}
+
+.CertificationsHeading {
+    margin: -10px 3px 0px 0px;
+    background-color: rgb(255, 255, 255);
+    color: blue;
+    font-size: 32px;
+    box-shadow: 5px 5px 1px 5px black;
+}
+
+.CertificationsSection {
+    padding-top: 100px;
+}
+
+div > section > h2 {
+    color: rgb(252, 255, 247);
+    font-weight: 600;
+}
+
+.CertificationsSection > a > button {
+    padding: 10px;
+    width: 150px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.CertificationsSection > a > button:hover {
+    background-color: orangered;
+    color: white;
+    border: 2px solid rgb(1, 128, 255);
+    cursor: pointer;
+}
