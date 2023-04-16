@@ -33,6 +33,7 @@ div > form > button {
     position: relative;
     justify-content: center;
     justify-items: center;
+    transition: ease-in;
 }  
 
 div > form > button:hover {

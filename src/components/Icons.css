@@ -1,0 +1,7 @@
+.IconsSection {
+    padding: 10px 0px 5px 50px;
+}
+
+.IconsSection > a {
+    margin-left: -10px;
+}
