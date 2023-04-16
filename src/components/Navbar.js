@@ -13,6 +13,7 @@ const Navbar = () => {
           <li onClick={() => window.location.replace("#Skill")}><a href='#Skill'>Skills</a></li>
           <li><a href='#Experience'>Experiences</a></li>
           <li><a href='#Education'>Educations</a></li>
+          <li><a href='#Certifications'>Certifications</a></li>
           <li><a href='#Course'>Courses</a></li>
           <li><a href='#Language'>Languages</a></li>
           <li><a href='#Test'>Tests</a></li>

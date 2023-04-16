@@ -10,6 +10,7 @@ import Contact from './components/Contact';
 import Projects from './components/Projects';
 import About from './components/About';
 import Home from './components/Home';
+import Certifications from './components/Certifications';
 
 function App() {
 
@@ -33,6 +34,8 @@ function App() {
       />
 
     <Education />
+
+    <Certifications />
 
     <Course />
 

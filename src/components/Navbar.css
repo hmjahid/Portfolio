@@ -14,7 +14,7 @@
   }
 
   .NavigationBar > ul > li {
-    font-size: 24px;
+    font-size: 20px;
     font-weight: bold;
     display: inline;
     flex-direction: left;
@@ -31,7 +31,6 @@
   }
   
   .NavigationBar > ul > li > a:hover {
-    font-size: 24px;
     border-radius: 20px;
     background-color: #ff683a;
     border-radius: 28px;
@@ -40,12 +39,16 @@
   }
   
   .Active {
-    font-size: 24px;
     border-radius: 20px;
     background-color: #ff683a;
     margin-left: 80px;
     border-radius: 28px;
     cursor: pointer; 
+    color: honeydew !important;
+  }
+
+  .Active:hover {
+    background-color: #d51686 !important;
     color: honeydew !important;
   }
 
