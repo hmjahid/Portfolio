@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ca844d76.css",
-    "main.js": "/static/js/main.4b260ea0.js",
+    "main.css": "/static/css/main.8b7d3ac0.css",
+    "main.js": "/static/js/main.a5bf0bf2.js",
     "static/media/MdJahidHasan.png": "/static/media/MdJahidHasan.4e25d735c849a841d365.png",
     "static/media/Md Jahid Hasan_CV.pdf": "/static/media/Md Jahid Hasan_CV.82bcca6db6f58751fe62.pdf",
     "static/media/logo_image.jpg": "/static/media/logo_image.e9ba0d6f71d25ba8fb95.jpg",
@@ -19,11 +19,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.93683c2cc3d5ca884dcf6c3525104a48.svg",
     "static/media/facebook(1).svg": "/static/media/facebook(1).d0e6c35f87cabc4c3d016b72ba214d1f.svg",
     "static/media/facebook.svg": "/static/media/facebook.d0e6c35f87cabc4c3d016b72ba214d1f.svg",
-    "main.ca844d76.css.map": "/static/css/main.ca844d76.css.map",
-    "main.4b260ea0.js.map": "/static/js/main.4b260ea0.js.map"
+    "main.8b7d3ac0.css.map": "/static/css/main.8b7d3ac0.css.map",
+    "main.a5bf0bf2.js.map": "/static/js/main.a5bf0bf2.js.map"
   },
   "entrypoints": [
-    "static/css/main.ca844d76.css",
-    "static/js/main.4b260ea0.js"
+    "static/css/main.8b7d3ac0.css",
+    "static/js/main.a5bf0bf2.js"
   ]
 }
