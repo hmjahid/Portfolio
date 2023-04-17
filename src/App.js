@@ -31,7 +31,7 @@ function App() {
     <Experience 
           position1="Office Assistant Cum Computer Operator"
           position2="CNC Operator, Machinist and Programmer" 
-          company="Nichima Precision Engineering Sdn. Bhd. , Penang, Malaysia"
+          company="Nichima Precision Engineering Sdn. Bhd., Penang, Malaysia"
       />
 
     <Education />
