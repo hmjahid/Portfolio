@@ -7,13 +7,10 @@ const Footer = () => {
   return (
     <section className='Footer' id='Footer'>
        <footer className='FooterSection'>
-
-       <Icons />
-
-       <h5 className='Copyright'>Copyright &copy; 2023 Md Jahid Hasan. All Rights Reserved &reg;</h5>
-       
-       <a href="#Intro"><img src={HomeIcon1}/></a>
+          <Icons />
+          <a href="#Intro"><img src={HomeIcon1}/></a>
        </footer>
+       <h5 className='Copyright'>Copyright &copy; 2023 Md Jahid Hasan. All Rights Reserved &reg;</h5>
     </section>
   )
 }

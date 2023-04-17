@@ -12,6 +12,7 @@ import About from './components/About';
 import Home from './components/Home';
 import Certifications from './components/Certifications';
 import Footer from './components/Footer';
+import FAB from './components/FAB';
 
 function App() {
 
@@ -49,6 +50,10 @@ function App() {
     <Hire />
 
     <Footer />
+
+    {/**
+    <FAB />
+    */}
       
     </section>
   );

@@ -1,21 +1,22 @@
 .Footer {
     background-color: azure;
     display:flexbox;
-    padding-right: 70px;
+    padding: 0px 70px 0px 0px;
 }
 
 .FooterSection {
     display: flex;
     justify-content:space-between;
-    display: flex;
 }
 
 .FooterSection > a {
-   background-color:chartreuse;
+   background-color:rgb(21, 255, 80);
    justify-content: center;
    justify-items: center;
    padding: 10px 14px 0px 8px;
    cursor: pointer;
+   border: 2px double black;
+   
 }
 
 .FooterSection > a > img {
@@ -32,48 +33,57 @@
 
 
 .Copyright {
+    justify-content: center;
     text-align: center;
-    padding-right: 100px;
+    padding-left: 80px;
+    margin: -20px 0px -10px 0px;
 }
 
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .Footer {
-        padding-inline: 180px;
+        padding-inline: 20px;
     }
     
     .FooterSection {
-        justify-content:center;
-    }
-    
-    .Copyright {
-        text-align: center;
-        padding-left: 80px;
+        justify-content: space-between;
     }
 
     .FooterSection > a {
-        padding-right: 50px;
-        margin-right: 20px;
+        padding-right: 10px;
+        margin-right: 10px;
      }
+
+     .Copyright {
+        margin: 10px 0px -10px 0px;
+    }
 }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
-
+    .Copyright {
+        margin: 10px 0px -10px 0px;
+    }
 }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
-
+    .Copyright {
+        margin: 10px 0px -10px 0px;
+    }
 }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
-
+    .Copyright {
+        margin: -20px 0px -10px 0px;
+    }
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
-
+    .Copyright {
+        margin: -20px 0px -10px 0px;
+    }
 } 

@@ -18,7 +18,7 @@
   
   #Name{
     font-size: 48px;
-    color:blanchedalmond;
+    color: azure;
     padding-top: 384px;
   }
   
@@ -33,6 +33,14 @@
     font-size: 24px;
   }
   
+  .ProfileSection {
+    /*
+    display: flex;
+    float: left;
+    padding: 0px 500px;
+    justify-content: space-between;
+    */
+  }
   
   .ProfilePhoto {
     clip-path: inset(100% 100% 100% 100%);
