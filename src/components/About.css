@@ -51,9 +51,9 @@ div > section > h2,h3 {
   
 #About > section > a > button {
     margin-inline: 10px;
-    padding: 10px;
+    padding: 16px;
     border-radius: 10px ;
-    width: 180px;
+    width: 200px;
     background-color: rgb(12, 189, 74);
     cursor: pointer;
     font-weight: bold;
