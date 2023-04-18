@@ -16,6 +16,8 @@ const Certifications = () => {
 
         <br/>
         <br/>
+        <br/>
+
         <h3>Fundamental of Embedded Systems</h3>
         <h4> * April 2023 *</h4>
         <h5>Udemy</h5>
@@ -23,6 +25,8 @@ const Certifications = () => {
 
         <br/>
         <br/>
+        <br/>
+
         <h3>Introduction to Artificial Intelligence in the Workplace</h3>
         <h4> * April 2023 *</h4>
         <h5>Udemy</h5>
@@ -30,6 +34,8 @@ const Certifications = () => {
         
         <br/>
         <br/>
+        <br/>
+        
         <h3>Practical Git: for Absolute Beginners</h3>
         <h4> * April 2023 *</h4>
         <h5>Udemy</h5>
