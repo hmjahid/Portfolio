@@ -23,6 +23,11 @@
       "sizes": "1988x1536"
     },
     {
+      "src": "logo_image_transparent.png",
+      "type": "image/png",
+      "sizes": "1365x1416"
+    },
+    {
       "src": "MdJahidHasan.jpg",
       "type": "image/jpeg",
       "sizes": "1988x1536"
