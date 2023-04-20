@@ -18,6 +18,15 @@ const Certifications = () => {
         <br/>
         <br/>
 
+        <h3>DevOps Fundamentals</h3>
+        <h4> * April 2023 *</h4>
+        <h5>Udemy</h5>
+        <a href="https://www.udemy.com/certificate/UC-a7d0107b-0196-480e-ba81-33755b41cd74/" target="_blank"><button>Show Credential</button></a>
+        
+        <br/>
+        <br/>
+        <br/>
+
         <h3>Fundamental of Embedded Systems</h3>
         <h4> * April 2023 *</h4>
         <h5>Udemy</h5>
