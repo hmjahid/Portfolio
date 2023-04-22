@@ -1,19 +1,19 @@
 .Footer {
     background-color: azure;
     display:flexbox;
-    padding: 0px 70px 0px 0px;
+    padding: 15px 70px 0px 0px;
 }
 
 .FooterSection {
     display: flex;
-    justify-content:space-between;
+    justify-content:space-around;
 }
 
 .FooterSection > a {
    background-color:rgb(21, 255, 80);
    justify-content: center;
    justify-items: center;
-   padding: 10px 14px 0px 8px;
+   padding: 8px 14px 0px 6px;
    cursor: pointer;
    border: 2px double black;
    
@@ -77,13 +77,33 @@
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
     .Copyright {
-        margin: -20px 0px -10px 0px;
+        margin: -10px 0px -10px 0px;
     }
+
 }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
     .Copyright {
-        margin: -20px 0px -10px 0px;
+        margin: -5px 0px -10px 0px;
     }
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1720px) {
+    .Copyright {
+        margin: -5px 0px -10px 0px;
+    }
+
+    .FooterSection {
+        justify-content:space-evenly ;
+        padding-left: 695px;
+    }
+
+    .FooterSection > a {
+        margin-left: 500px;
+        
+     }
+
 } 
