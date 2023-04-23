@@ -8,7 +8,6 @@ img {
     overflow: hidden;
     background-color: azure;
     width: 100%;
-    padding: 2px 40px 0px 40px;
   }
   
   .NavigationBar > ul  {
@@ -63,7 +62,7 @@ img {
       .NavigationBar > ul > li > a {
         float: none;
         text-align: center;
-        padding-left: 20px;
+        padding-left: 15px;
         margin-left: 15px;
         justify-content: center;
         justify-items: center;
@@ -76,9 +75,10 @@ img {
       .NavigationBar {
         display: flex;
         overflow: hidden;
-        padding: 2px 30px 0px 0px;
+        padding: 2px 200px 0px 0px !important;
         float: none;
         flex-direction: column;
+        margin-left: -25px !important;
       }
 
       img {
@@ -105,11 +105,19 @@ img {
       flex-direction: column;
     }
 
+    .LogoImage {
+      padding: 8px 0px 5px 10px;
+      margin: 0px 0px 0px -22px;
+    }
+
     }
 
   /* Medium devices (landscape tablets, 768px and up) */
   @media only screen and (min-width: 768px) {
-
+    .LogoImage {
+      padding: 8px 0px 5px 10px;
+      margin: 0px 0px 0px -22px;
+    }
     }
 
   /* Large devices (laptops/desktops, 992px and up) */
@@ -128,6 +136,11 @@ img {
       cursor: pointer; 
       color: black;
     }
+
+    .LogoImage {
+      padding: 8px 0px 5px 10px;
+      margin: 0px 0px 0px -90px;
+    }
     }
 
   /* Extra large devices (large laptops and desktops, 1200px and up) */
@@ -135,7 +148,12 @@ img {
     .NavigationBar {
       position: fixed;
       width: 100%;
-      padding: 2px 40px 0px 40px;
+      padding: 2px 60px 0px 0px;
+    }
+
+    .LogoImage {
+      padding: 8px 0px 5px 10px;
+      margin: 0px 0px 0px -20px;
     }
     } 
   
@@ -150,6 +168,11 @@ img {
 
     .NavigationBar > ul > li > a {
       margin-top: 0px; 
+    }
+
+    .LogoImage {
+      padding: 8px 0px 5px 10px;
+      margin: 0px 0px 0px 10px;
     }
   
   }   
