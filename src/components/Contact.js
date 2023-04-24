@@ -21,6 +21,11 @@ const Contact = () => {
         </section>
 
         <ContactForm />
+
+        <section className='LocationSection'>
+        <h2 style={{color: "white", fontSize: "32px"}}><u>My Location</u> :</h2>
+        <iframe className='LocationIframe' src='https://maps.google.com/maps?q=setai%20aci%20united%20secondary%20school&t=&z=19&ie=UTF8&iwloc=&output=embed'></iframe>
+        </section>
     </div>
   )
 }
