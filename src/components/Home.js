@@ -22,11 +22,16 @@ const Home = () => {
 
       <div className='ProfileSection'>
         <h1 id='Name'>Md Jahid Hasan</h1>
-        <h2 className='Profession'>Front-End Developer</h2>
+        <h2 className='Profession'>Front-End Developer, Data Entry Clerk/Operator & Virtual Assistant</h2>
       
         <p className='ProfileAbout'>
-          I am a qualified and professional <span style={{color: "orangered"}}><b>Front-End Web Developer</b></span> with experience in website design. Strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing websites in Linux environment. I am excited to learn new technology.
+          I am a qualified and professional <span style={{color: "orangered"}}><b>Front-End Web Developer, Data Entry Clerk/Operator & Virtual Assistant</b></span> with experience in website design, website development, responsive and mobile friendly web design and development, basic React.js application and landing page design and development, data entry and CNC operation & programming. I inherit strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing, responsive websites in Linux environment. I am eager to learn new technology.
         </p>
+
+        <section className='ServicesSection'>
+          <h2 className='ServicesHeading'><u>Services Provided</u>:</h2>
+          <h3 className='Services'>Web Design, Web Development, Responsive Web Design and Development, Basic React.js Application & Landing Page Design & Development, Virtual Assistance, Data Entry, Lead Generation, CNC Programming, Linux & FreeBSD Consultancy (Installation, Disk Management, Package Installation, MacOS like theme customization, Heavy-Weight & Light-Weight Desktop Environment(DE) Installation and Troubleshooting)</h3>
+        </section>
 
         <section className='TopDownload'> 
           <a href={CV} download className='DownloadResume'><button>DOWNLOAD RESUME</button></a>

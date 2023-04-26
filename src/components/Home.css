@@ -49,6 +49,15 @@
       */
     border: 8px ridge rgb(255, 255, 255);
   }
+
+  .ServicesHeading {
+    padding: 20px 0px 0px 0px;
+    color: orange;
+  }
+  .Services {
+    color: azure;
+    margin-top: -10px !important;
+  }
   
   /*
   
@@ -77,7 +86,7 @@
   */
   
   .TopDownload {
-    padding-top: 20px;
+    padding-top: 0px;
   }
   
   .TopDownload > a > button {
@@ -95,7 +104,6 @@
     border-radius: 8px solid rgb(255, 252, 252);
     cursor: pointer;
   }
-
 
 
    /* Extra small devices (phones, 600px and down) */
