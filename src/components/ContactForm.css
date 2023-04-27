@@ -29,16 +29,17 @@ div > form > button {
     padding: 10px;
     font-weight: bold;
     cursor: pointer;
-    background-color: azure;
+    background-color: orangered;
     border: none;
     position: relative;
     justify-content: center;
     justify-items: center;
     border-radius: 5px;
+    color: azure;
 }  
 
 div > form > button:hover {
-    background-color: orangered;
+    background-color: #d51686;
     color: white;
     border: 2px solid none;
     cursor: pointer;
