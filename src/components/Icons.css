@@ -6,6 +6,10 @@
     margin-left: -10px;
 }
 
+.IconsSection > a > img:hover {
+    height: 32px !important;
+    width: 32px !important;
+}
 
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
