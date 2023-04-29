@@ -6,11 +6,6 @@
     margin-left: -10px;
 }
 
-.IconsSection > a > img:hover {
-    height: 32px !important;
-    width: 32px !important;
-}
-
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .IconsSection > a {
@@ -50,9 +45,14 @@
     }
 } 
 
-/* Extra large devices (large laptops and desktops, 1200px and up) */
+/* Extra Extra large devices (large laptops and desktops, 1720px and up) */
 @media only screen and (min-width: 1720px) {
     .IconsSection {
         padding: 10px 0px 5px 50px;
+    }
+
+    .IconsSection > a > img:hover {
+        height: 32px !important;
+        width: 32px !important;
     }
 } 
