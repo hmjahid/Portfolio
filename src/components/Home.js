@@ -30,7 +30,7 @@ const Home = () => {
         </p>
 
         <section className='ServicesSection'>
-          <h2 className='ServicesHeading'><u>Services Provided</u>:</h2>
+          <h2 className='ServicesHeading'><u>Providing Services</u>:</h2>
           <h3 className='Services'>Web Design, Web Development, Responsive Web Design and Development, Basic React.js Application & Landing Page Design & Development, Virtual Assistance, Data Entry, Lead Generation, CNC Programming, Linux & FreeBSD Consultancy (Installation, Disk Management, Package Installation, MacOS like theme customization, Heavy-Weight & Light-Weight Desktop Environment(DE) Installation and Troubleshooting)</h3>
         </section>
 
