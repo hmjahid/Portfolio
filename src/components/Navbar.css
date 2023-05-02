@@ -53,7 +53,10 @@ img {
   }
 
   .Active:hover {
+    background-color: rgb(246, 135, 94) !important;
+    /*
     background-color: #d51686 !important;
+    */
     color: honeydew !important;
   }
 
