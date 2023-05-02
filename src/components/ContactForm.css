@@ -39,7 +39,10 @@ div > form > button {
 }  
 
 div > form > button:hover {
+    background-color: rgb(246, 135, 94);
+    /*
     background-color: #d51686;
+    */
     color: white;
     border: 2px solid none;
     cursor: pointer;
