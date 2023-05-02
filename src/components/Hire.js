@@ -17,7 +17,7 @@ const Hire = () => {
         <br/>
         <a href="https://www.freelancer.com/u/hmjahid" target='_blank'><button>HIRE ON FREELANCER</button></a>
         <br/>
-        <a href="https://www.fiverr.com/" target='_blank'><button>HIRE ON FIVERR</button></a>
+        <a href="https://www.fiverr.com/hmjahid7432" target='_blank'><button>HIRE ON FIVERR</button></a>
         </section>
     </div>
   )
