@@ -50,30 +50,49 @@ div > a > button:hover {
     cursor: pointer;
 }
 
-
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     div > a > button {
         margin-top: 20px;
   }
+
+    .ProjectIframe {
+        height: 240px;
+        width: 320px;
+  }
+
   }
 
 /* Small devices (portrait tablets and large phones, 600px and up) */
 @media only screen and (min-width: 600px) {
+    .ProjectIframe {
+        width: 560px;
+    }
+
 
   }
 
 /* Medium devices (landscape tablets, 768px and up) */
 @media only screen and (min-width: 768px) {
+    .ProjectIframe {
+        width: 720px;
+    }
 
   }
 
 /* Large devices (laptops/desktops, 992px and up) */
 @media only screen and (min-width: 992px) {
+    .ProjectIframe {
+        width: 800px;
+    }
 
   }
 
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1200px) {
+    .ProjectIframe {
+        width: 800px;
+    }
+
 
   } 
