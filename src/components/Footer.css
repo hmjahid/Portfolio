@@ -1,7 +1,7 @@
 .Footer {
     background-color: azure;
     display:flexbox;
-    padding: 15px 70px 0px 0px;
+    padding: 25px 70px 10px 0px;
 }
 
 .FooterSection {
@@ -99,7 +99,7 @@
 /* Extra large devices (large laptops and desktops, 1200px and up) */
 @media only screen and (min-width: 1720px) {
     .Copyright {
-        margin: -5px 0px -10px -40px;
+        margin: 0px 0px -10px -40px;
     }
 
     .FooterSection {
