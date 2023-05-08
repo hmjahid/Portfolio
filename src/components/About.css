@@ -51,16 +51,18 @@ div > section > h2,h3 {
   
 #About > section > a > button {
     margin-inline: 10px;
-    padding: 16px;
-    border-radius: 10px ;
+    padding: 14px 12px;
+    border-radius: 5px ;
     width: 200px;
-    background-color: rgb(12, 189, 74);
+    background-color: orangered;
     cursor: pointer;
     font-weight: bold;
+    border: none;
+    color: white;
   }
   
 #About > section > a > button:hover {
-    background-color: orangered;
+    background-color: rgb(246, 135, 94);
     color: white;
     cursor: pointer;
   }

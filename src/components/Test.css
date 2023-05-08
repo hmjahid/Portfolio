@@ -32,15 +32,18 @@ div > section > h2 {
 }
 
 .TestSection > a > button {
-    padding: 10px;
+    padding: 14px 10px;
     width: 150px;
     font-weight: bold;
     cursor: pointer;
+    border-radius: 5px;
+    background-color: orangered;
+    border: none;
+    color: white;
 }
 
 .TestSection > a > button:hover {
-    background-color: orangered;
+    background-color: rgb(246, 135, 94);
     color: white;
-    border: 2px solid rgb(248, 250, 252);
     cursor: pointer;
 }
