@@ -34,16 +34,19 @@ div > section > h2 {
 
 .HireSection > a > button {
     margin-top: 20px;
-    padding: 10px;
+    padding: 14px 10px;
     width: 190px;
     font-weight: bold;
     cursor: pointer;
+    border: none;
+    background-color: orangered;
+    border-radius: 5px;
+    color: white;
 }
 
 .HireSection > a > button:hover {
-    background-color: orangered;
+    background-color: rgb(246, 135, 94);
     color: white;
-    border: 2px solid rgb(248, 250, 252);
     cursor: pointer;
 }
 
