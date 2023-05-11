@@ -11,7 +11,7 @@ const Footer = () => {
           <a href="#Intro"><img src={HomeIcon1}/></a>
        </footer>
        <h5 className='Copyright'>Copyright &copy; 2023 Md Jahid Hasan. All Rights Reserved &reg;</h5>
-       <h5 className='DesignerAndDeveloper'>Designed & Developed by <span className='DeveloperName'>Md Jahid Hasan</span></h5>
+       <h5 className='DesignerAndDeveloper'>Designed & Developed by <a href='https://www.linkedin.com/in/md-jahid-hasan-584712243/' target='_blank'><span className='DeveloperName'>Md Jahid Hasan</span></a></h5>
     </section>
   )
 }
