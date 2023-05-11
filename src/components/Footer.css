@@ -41,13 +41,14 @@
 
 .DesignerAndDeveloper {
     text-align: center;
-    padding-left: 50px;
+    padding-left: 42px;
     font-size: 16px;
     margin: 15px 0px -5px 0px;
 }
 
 .DeveloperName {
     color: #d51686;
+    font-weight: bolder;
 }
 
 /* Extra small devices (phones, 600px and down) */
