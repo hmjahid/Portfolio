@@ -22,11 +22,11 @@ const Home = () => {
 
       <div className='ProfileSection'>
         <h1 id='Name'>Md Jahid Hasan</h1>
-        <h2 className='Profession'>Front-End Developer, Data Entry Operator & Virtual Assistant</h2>
+        <h2 className='Profession'>Front-End Developer</h2>
         <h4 className='Motto'><code>{`{ Approach to Design, Implementation and Management of Imaginations & Obligations in Real World }`}</code></h4>
       
         <p className='ProfileAbout'>
-          I am a qualified and professional <span style={{color: "orangered"}}><b>Front-End Web Developer, Data Entry Operator & Virtual Assistant</b></span> with experience in website design, website development, responsive and mobile friendly web design and development, basic React.js application and landing page design and development, data entry and CNC operation & programming. I inherit strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing, responsive websites in Linux environment. I am eager to learn new technology.
+          I am a qualified and professional <span style={{color: "orangered"}}><b>Front-End Web Developer</b></span> with experience in website design, website development, responsive and mobile friendly web design and development, basic React.js application and landing page design and development, data entry and CNC operation & programming. I inherit strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing, responsive websites in Linux environment. I am eager to learn new technology.
         </p>
 
         <section className='ServicesSection'>
