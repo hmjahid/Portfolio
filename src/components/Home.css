@@ -32,7 +32,7 @@
   }
   
   .ProfileAbout {
-    padding: 0px 20px 0px 20px;
+    padding-inline: 55px;
     color:powderblue;
     font-size: 24px;
   }
@@ -61,6 +61,7 @@
   .Services {
     color: azure;
     margin-top: -10px !important;
+    padding-inline: 55px;
   }
   
   /*

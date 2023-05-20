@@ -26,12 +26,27 @@ const Home = () => {
         <h4 className='Motto'><code>{`{ Approach to Design, Implementation and Management of Imaginations & Obligations in Real World }`}</code></h4>
       
         <p className='ProfileAbout'>
-          I am a qualified and professional <span style={{color: "orangered"}}><b>Front-End Web Developer</b></span> with experience in Website Design, Website Development, Responsive Web Design and Development, Basic React.js Application and Landing Page Design and Development, Data Entry, Web Research, Lead Generation and CNC Operation & Programming. I inherit strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing, responsive websites in Linux environment. I am eager to learn new technology.
+          I am a qualified and professional <span style={{color: "orangered"}}><b>Front-End Web Developer</b></span> with experience in Website Design, Website Development, Responsive Web Design and Development, Landing Page Design & Development, Basic React.js Application and Landing Page Design and Development, Data Entry, Web Research, Lead Generation and CNC Operation & Programming. I inherit strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing, responsive websites in Linux environment. I am eager to learn new technology.
         </p>
 
         <section className='ServicesSection'>
           <h2 className='ServicesHeading'><u>Providing Services</u>:</h2>
-          <h3 className='Services'>Web Design, Web Development, Responsive Web Design and Development, Basic React.js Application & Landing Page Design & Development, Virtual Assistance, Data Entry, Lead Generation, CNC Programming, Linux & FreeBSD Consultancy (Installation, Disk Management, Package Installation, MacOS like theme customization, Heavy-Weight & Light-Weight Desktop Environment(DE) Installation and Troubleshooting)</h3>
+          <h3 className='Services'>Web Design, Web Development, Responsive Web Design and Development, Landing Page Design & Development, Basic React.js Application & Landing Page Design & Development, Virtual Assistance, Data Entry, Lead Generation, CNC Programming, Linux & FreeBSD Consultancy (Installation, Disk Management, Package Installation, MacOS like theme customization, Heavy-Weight & Light-Weight Desktop Environment(DE) Installation and Troubleshooting)</h3>
+
+          {/**
+          <ul>
+            <li>Web Design & Development</li>
+            <li>Responsive Web Design & Development</li>
+            <li>Landing Page Design & Development</li>
+            <li>Basic React.js Apllication & Landing Page Design & Development</li>
+            <li>Virtual Assistance</li>
+            <li>Data Entry</li>
+            <li>Lead Generation</li>
+            <li>CNC Programming</li>
+            <li>Linux & FreeBSD Consultancy (Installation, Disk Management, Package Installation, MacOS like theme customization, Heavy-Weight & Light-Weight Desktop Environment(DE) Installation and Troubleshooting)</li>
+          </ul>
+           */}
+
         </section>
 
         <section className='TopDownload'> 
