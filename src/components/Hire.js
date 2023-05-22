@@ -13,11 +13,11 @@ const Hire = () => {
         <br/>
         <a href={CV} download><button>DOWNLOAD RESUME</button></a>
         <br/>
+        <a href="https://www.fiverr.com/hmjahid7432" target='_blank'><button>HIRE ON FIVERR</button></a>
+        <br/>
         <a href="https://www.upwork.com/freelancers/~010cdb4fba08b4f5e0" target='_blank'><button>HIRE ON UPWORK</button></a>
         <br/>
         <a href="https://www.freelancer.com/u/hmjahid" target='_blank'><button>HIRE ON FREELANCER</button></a>
-        <br/>
-        <a href="https://www.fiverr.com/hmjahid7432" target='_blank'><button>HIRE ON FIVERR</button></a>
         <br/>
         <a href="https://www.guru.com/freelancers/hmjahid" target='_blank'><button>HIRE ON GURU</button></a>
         </section>
