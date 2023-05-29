@@ -9,6 +9,15 @@ const Certifications = () => {
         <section className="CertificationsSection">
         <h2 style={{color: "white", fontSize: "32px"}}><u>Certifications</u> :</h2>
 
+        <h3>Complete Wordpress Website Developer Course </h3>
+        <h4> * May 2023 *</h4>
+        <h5>Udemy</h5>
+        <a href="https://www.udemy.com/certificate/UC-7b1fa35a-26e7-4410-9010-2942edde01cf/" target="_blank"><button>Show Credential</button></a>
+
+        <br/>
+        <br/>
+        <br/>
+
         <h3>Cyber Security Awareness For Everyone</h3>
         <h4> * April 2023 *</h4>
         <h5>Udemy</h5>
