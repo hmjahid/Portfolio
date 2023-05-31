@@ -68,6 +68,20 @@ const Projects = () => {
         </div>
      </div>
         </section>
+
+        <br/>
+        <br/>
+        <br/>
+
+        <div className='WordpressProjects'>
+          <h2 style={{color: "white", fontSize: "32px"}}><u>Wordpress Projects</u>:</h2>
+            <div className='Project'>
+              <h3>Project Name : Alpha Web Services - Web services company website</h3>
+              <iframe className='ProjectIframe' src="https://alphawebservices.wpdevcloud.com/" height="320" width="320" title="Alpha Web Services - Web services company website" loading='lazy'></iframe> 
+              <h4>Used Technology : Wordpress, Elementor Page Builder, Astra Theme, Envato Elemnts, Jetpack</h4>
+              <a href='https://alphawebservices.wpdevcloud.com/' target='_blank'><button>Live Site </button></a>
+          </div>
+        </div>
     </div>
   )
 }
