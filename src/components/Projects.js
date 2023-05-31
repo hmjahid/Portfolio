@@ -78,7 +78,7 @@ const Projects = () => {
             <div className='Project'>
               <h3>Project Name : Alpha Web Services - Web services company website</h3>
               <iframe className='ProjectIframe' src="https://alphawebservices.wpdevcloud.com/" height="320" width="320" title="Alpha Web Services - Web services company website" loading='lazy'></iframe> 
-              <h4>Used Technology : Wordpress, Elementor Page Builder, Astra Theme, Envato Elemnts, Jetpack</h4>
+              <h4>Used Technology : Wordpress, Elementor Page Builder, Astra Theme, Envato Elements, Jetpack</h4>
               <a href='https://alphawebservices.wpdevcloud.com/' target='_blank'><button>Live Site </button></a>
           </div>
         </div>
