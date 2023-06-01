@@ -1,4 +1,4 @@
-
+/* CSS Grid */
 .col-1{
     width: 8.33%;
 }
@@ -55,6 +55,7 @@
     */
     box-sizing: border-box;
 }
+
 
 .grid-container {
     display: grid;
