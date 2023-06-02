@@ -118,3 +118,7 @@ div > section > h2 {
     color: white;
     cursor: pointer;
 }
+
+.CertificationDetail {
+    padding-left: 20px;
+}
