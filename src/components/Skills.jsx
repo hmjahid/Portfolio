@@ -24,7 +24,7 @@ const Skills = (props) => {
         <li>PSD/Figma to Wordpress</li>
         <li>Wordpress Website Development</li>
         <li>Wordpress Theme Customization</li>
-        <li>Woocommerce Website Development</li>
+        <li>WooCommerce Website Development</li>
       </ul>
       </section>
     </div>
