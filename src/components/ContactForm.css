@@ -29,7 +29,7 @@ div > form > button {
     padding: 10px;
     font-weight: bold;
     cursor: pointer;
-    background-color: orangered;
+    background-color: #1361F5;
     border: none;
     position: relative;
     justify-content: center;
@@ -39,7 +39,7 @@ div > form > button {
 }  
 
 div > form > button:hover {
-    background-color: rgb(246, 135, 94);
+    background-color: #3c7cf2;
     /*
     background-color: #d51686;
     */

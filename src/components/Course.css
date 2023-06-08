@@ -107,13 +107,13 @@ div > section > h2 {
     font-weight: bold;
     cursor: pointer;
     border-radius: 5px;
-    background-color: orangered;
+    background-color: #1361F5;
     border: none;
     color: white;
 }
 
 .CourseSection > a > button:hover {
-    background-color: rgb(246, 135, 94);
+    background-color: #3c7cf2;
     color: white;
     cursor: pointer;
 }

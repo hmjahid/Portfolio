@@ -129,7 +129,7 @@ div > section > h2,h3 {
     padding: 14px 12px;
     border-radius: 5px ;
     width: 200px;
-    background-color: orangered;
+    background-color: #1361F5;
     cursor: pointer;
     font-weight: bold;
     border: none;
@@ -137,7 +137,7 @@ div > section > h2,h3 {
   }
   
 #About > section > a > button:hover {
-    background-color: rgb(246, 135, 94);
+    background-color: #3c7cf2;
     color: white;
     cursor: pointer;
   }
