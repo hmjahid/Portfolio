@@ -15,6 +15,7 @@ const Skills = (props) => {
         <li>Bootstrap4</li>
         <li>JavaScript</li>
         <li>React</li>
+        <li>MySQL</li>
         <li>Git</li>
         <li>GitHub</li>
         <li>Trello</li>
