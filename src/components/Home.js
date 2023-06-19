@@ -23,7 +23,7 @@ const Home = () => {
       <div className='ProfileSection'>
         <h1 id='Name'>Md Jahid Hasan</h1>
         <h2 className='Profession'>Front-End Developer | Wordpress Developer | WooCommerce Developer</h2>
-        <h4 className='Motto'><code>{`{ Visualizing ideas through Web Technology }`}</code></h4>
+        <h4 className='Motto'><code>{`{ Visualizing Ideas through Web Technology }`}</code></h4>
         <h4 className='Motto'><code>{`{ Approach to Design, Implementation and Management of Imaginations & Obligations in Real World }`}</code></h4>
       
         <p className='ProfileAbout'>
