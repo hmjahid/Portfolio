@@ -52,7 +52,7 @@ const Home = () => {
 
         <section className='TopDownload'> 
           <a href={CV} download className='DownloadResume'><button>DOWNLOAD RESUME</button></a>
-          <a href="#About"><button>ABOUT ME</button></a>
+          <a href="#About"><button className='UniqueButton'>ABOUT ME</button></a>
         </section>
       </div>
 
