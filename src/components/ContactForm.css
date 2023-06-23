@@ -30,7 +30,7 @@ div > form > button {
     font-weight: bold;
     cursor: pointer;
     background-color: #1361F5;
-    border: none;
+    border: 1px solid black;
     position: relative;
     justify-content: center;
     justify-items: center;
@@ -39,12 +39,12 @@ div > form > button {
 }  
 
 div > form > button:hover {
-    background-color: #3c7cf2;
+    background-color: transparent;
     /*
     background-color: #d51686;
     */
     color: white;
-    border: 2px solid none;
+    border: 1px solid white;
     cursor: pointer;
 }  
 

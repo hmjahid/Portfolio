@@ -44,20 +44,21 @@ img {
   }
   
   .Active {
-    border-radius: 5px;
     background-color: orangered;
     margin-left: 35px;
     border-radius: 28px;
+    border: 1px solid white;
     cursor: pointer; 
     color: honeydew !important;
   }
 
   .Active:hover {
-    background-color: rgb(246, 135, 94) !important;
+    background-color: transparent !important;
     /*
     background-color: #d51686 !important;
     */
-    color: honeydew !important;
+    border: 1px solid black;
+    color: rgb(0, 0, 0) !important;
   }
 
   /* Extra small devices (phones, 600px and down) */
