@@ -39,13 +39,14 @@ div > section > h2 {
     cursor: pointer;
     border-radius: 5px;
     background-color: #1361F5;
-    border: none;
+    border: 1px solid black;
     color: white;
 }
 
 .ContactSection > a > button:hover {
-  background-color: #3c7cf2;
-  color: white;
+    background-color: transparent;
+    color: white;
+    border: 1px solid white;
     cursor: pointer;
 }
 

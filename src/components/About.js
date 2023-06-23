@@ -25,7 +25,7 @@ const About = () => {
           </ul>
       </div>
       <a href={CV} download><button>DOWNLOAD RESUME</button></a>
-      <a href="#ContactMe"><button>CONTACT ME</button></a>
+      <a href="#ContactMe"><button className='UniqueButton'>CONTACT ME</button></a>
       { /** 
       &nbsp; &nbsp;
       <a href="#HireMe"><button>HIRE ME</button></a>
