@@ -21,6 +21,7 @@ const Skills = (props) => {
         <li>Trello</li>
         <li>Linux</li>
         <li>FreeBSD</li>
+        <li>Docker</li>
         <li>PSD/Figma to HTML</li>
         <li>PSD/Figma to Wordpress</li>
         <li>Wordpress Website Development</li>
