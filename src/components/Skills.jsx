@@ -18,14 +18,14 @@ const Skills = (props) => {
         <li>MySQL</li>
         <li>Git</li>
         <li>GitHub</li>
-        <li>Trello</li>
         <li>Docker</li>
         <li>Linux</li>
         <li>FreeBSD</li>
+        <li>Trello</li>
         <li>PSD/Figma to HTML</li>
-        <li>PSD/Figma to Wordpress</li>
-        <li>Wordpress Website Development</li>
-        <li>Wordpress Theme Customization</li>
+        <li>PSD/Figma to WordPress</li>
+        <li>WordPress Website Development</li>
+        <li>WordPress Theme Customization</li>
         <li>WooCommerce Website Development</li>
       </ul>
       </section>
