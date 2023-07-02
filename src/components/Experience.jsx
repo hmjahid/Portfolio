@@ -10,6 +10,18 @@ const Experience = (props) => {
 
         <section className="ExperienceSection">
         <h2 className="SubHeading" style={{color: "lightpink", fontSize: "32px"}}><u>My Experiences</u> :</h2>
+
+        <div className='ExperienceDetails'>
+        <h3 className='title'>Junior WordPress Developer</h3>
+        <Company company={props.company2}/>
+        <h4>* July 2023 - Present *</h4>
+        <p> As a Junior WordPress Developer at WebFix Lab, I am responsible for developing, maintaining, and updating websites on WordPress for a diverse range of clients. I contribute to creating innovative designs, customizing our in-house plugins, and enhancing user experiences using various programming languages. My role also involves optimizing website performance, following SEO best practices, and staying updated with the latest industry trends. I am committed to maintaining strict confidentiality and professionalism with all client projects and information.</p>
+        <strong>Skills: DIVI · HTML5 · CSS3 · WooCommerce · WordPress Design · Wordpress Development · Elementor · Docker · Web Development · Web Design · Git · GitHub · Linux</strong>
+        </div>
+
+        <br/>
+        <br/>
+
         <div className='ExperienceDetails'>
         <h3 className='title'>{props.position2}</h3>
         <Company company={props.company}/>
@@ -18,6 +30,7 @@ const Experience = (props) => {
         <strong>Skills: CNC Machine · Quality Assurance · Machining · Team Leadership · Lathe · Computer Numerical Control CNC · CNC Manufacturing · CNC Mill · CNC Operation</strong>
         </div>
 
+        <br/>
         <br/>
         
         <div className='ExperienceDetails'>

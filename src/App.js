@@ -33,6 +33,7 @@ function App() {
           position1="Office Assistant Cum Computer Operator"
           position2="CNC Operator, Machinist and Programmer" 
           company="Nichima Precision Engineering Sdn. Bhd., Penang, Malaysia"
+          company2="WebFix Lab, Dhaka, Bangladesh"
       />
 
     <Education />
