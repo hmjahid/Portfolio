@@ -20,6 +20,7 @@ const Skills = (props) => {
         <li>GitHub</li>
         <li>Docker</li>
         <li>Podman</li>
+        <li>Virtualization</li>
         <li>Linux</li>
         <li>FreeBSD</li>
         <li>Trello</li>
