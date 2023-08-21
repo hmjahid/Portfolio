@@ -18,8 +18,7 @@ const Skills = (props) => {
         <li>MySQL</li>
         <li>Git</li>
         <li>GitHub</li>
-        <li>Docker</li>
-        <li>Podman</li>
+        <li>Containerization (Docker, Podman)</li>
         <li>Virtualization (QEMU/KVM, VirtualBox)</li>
         <li>Linux</li>
         <li>FreeBSD</li>
