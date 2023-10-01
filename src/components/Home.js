@@ -22,12 +22,12 @@ const Home = () => {
 
       <div className='ProfileSection'>
         <h1 id='Name'>Md Jahid Hasan</h1>
-        <h2 className='Profession'>Front-End Developer | WordPress Developer | WooCommerce Developer</h2>
+        <h2 className='Profession'>Front-End Developer | WordPress Developer</h2>
         <h4 className='Motto'><code>{`{ Visualizing Ideas through Web Technology }`}</code></h4>
         <h4 className='Motto'><code>{`{ Approach to Design, Implementation and Management of Imaginations & Obligations in Real World }`}</code></h4>
       
         <p className='ProfileAbout'>
-          I am a qualified and professional <span style={{color: "orangered"}}><b>Front-End Web Developer, Wordpress Developer & WooCommerce Developer</b></span> with experience in Website Design, Website Development, Responsive Web Design and Development, Landing Page Design & Development, Basic React.js Application and Landing Page Design and Development, Wordpress Website Design & Development, Wordpress Theme Customization, WooCommerce Website Design & Development, PSD/Figma to HTML, PSD/Figma to Wordpress, Data Entry, Web Research & Lead Generation. I inherit strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing, responsive websites in Linux environment. I am eager to learn new technology.
+          I am a qualified and professional <span style={{color: "orangered"}}><b>Front-End Web Developer & WordPress Developer</b></span> with experience in Website Design, Website Development, Responsive Web Design and Development, Landing Page Design & Development, Basic React.js Application and Landing Page Design and Development, Wordpress Website Design & Development, Wordpress Theme Customization, WooCommerce Website Design & Development, PSD/Figma to HTML, PSD/Figma to Wordpress, Data Entry, Web Research & Lead Generation. I inherit strong creative and analytical skills. I am detail oriented and a hardworker. Team player with an eye for details. I am well and love working in team environment as well as utilizing self initiative. I am a result-oriented person who loves his duties and responsibilities, highly focuses on his job, a quick learner and loves coding, designing & developing Front-End of amazing, responsive websites in Linux environment. I am eager to learn new technology.
         </p>
 
         <section className='ServicesSection'>
