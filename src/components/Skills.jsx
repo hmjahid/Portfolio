@@ -14,12 +14,15 @@ const Skills = (props) => {
         <li>CSS3</li>
         <li>Bootstrap4</li>
         <li>JavaScript</li>
-        <li>React</li>
         <li>MySQL</li>
         <li>Git</li>
         <li>GitHub</li>
         <li>Containerization (Docker, Podman)</li>
+        <li>Container Orchestration (Portainer)</li>
         <li>Virtualization (QEMU/KVM, VirtualBox)</li>
+        <li>Server Virtualization (Proxmox)</li>
+        <li>NAS (TrueNAS)</li>
+        <li>AWS</li>
         <li>Linux</li>
         <li>FreeBSD</li>
         <li>Trello</li>
