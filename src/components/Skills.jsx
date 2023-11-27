@@ -10,27 +10,24 @@ const Skills = (props) => {
       <section className="SkillSection">
       <h2 style={{color: "lightblue", fontSize: "32px"}}><u>My Skills</u> :</h2>
       <ul>
-        <li>HTML5</li>
-        <li>CSS3</li>
-        <li>Bootstrap4</li>
-        <li>JavaScript</li>
-        <li>MySQL</li>
-        <li>Git</li>
-        <li>GitHub</li>
-        <li>Containerization (Docker, Podman)</li>
-        <li>Container Orchestration (Portainer)</li>
-        <li>Virtualization (QEMU/KVM, VirtualBox)</li>
-        <li>Server Virtualization (Proxmox)</li>
-        <li>NAS (TrueNAS)</li>
-        <li>AWS</li>
-        <li>Linux</li>
-        <li>FreeBSD</li>
-        <li>Trello</li>
-        <li>PSD/Figma to HTML</li>
-        <li>PSD/Figma to WordPress</li>
-        <li>WordPress Website Development</li>
-        <li>WordPress Theme Customization</li>
-        <li>WooCommerce Website Development</li>
+        <li>Markup Language: HTML</li>
+        <li>Style Sheet Language: CSS</li>
+        <li>CSS Framework: Bootstrap</li>
+        <li>Programming Languages: JavaScript</li>
+        <li>Database Management Systems: MySQL</li>
+        <li>Version Control Systems: Git</li>
+        <li>Code Hosting Platforms: Github</li>
+        <li>Containerizations: Docker, Podman</li>
+        <li>Container Orchestrations: Portainer</li>
+        <li>Virtualizations: QEMU/KVM, VirtualBox</li>
+        <li>Server Virtualizations: Proxmox</li>
+        <li>Network Attached Storages: TrueNAS</li>
+        <li>Cloud Platforms: Amazon Web Service (AWS)</li>
+        <li>Operating Systems: Linux (Ubuntu, Fedora, Centos, RHEL), Unix (FreeBSD)</li>
+        <li>Monitoring Tools: Nagios</li>
+        <li>Web Servers: Nginx</li>
+        <li>Project Management Tools: Trello</li>
+        <li>Content Management Systems: WordPress</li>
       </ul>
       </section>
     </div>
