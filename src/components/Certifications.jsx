@@ -27,6 +27,15 @@ const Certifications = () => {
         <br/>
         <br/>
 
+        <h3>AWSOME DAY Online Conference Attendance Certificate</h3>
+        <h4> * November 2023 *</h4>
+        <h5>Amazon Web Services (AWS)</h5>
+        <a href="https://pages.awscloud.com/index.php/email/emailWebview?email=MTEyLVRaTS03NjYAAAGP4WvWYK_FF96a1pe6ARRzjSfF-Fw8mCNaDJ2W3CVgNQjvbEns8k5P5do2TIc24Ck7t01LIij6vMzJP0Cjom7aPmwa7UpW4_O9Vm0" target="_blank"><button>Show Credential</button></a>
+
+        <br/>
+        <br/>
+        <br/>
+
         <h3>SQL Bootcamp with MySQL, PHP & Python : 5 Courses in 1</h3>
         <h4> * July 2023 *</h4>
         <h5>Udemy</h5>
