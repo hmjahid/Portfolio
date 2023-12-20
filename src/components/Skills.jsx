@@ -18,8 +18,8 @@ const Skills = (props) => {
         <li>Version Control Systems: Git</li>
         <li>Code Hosting Platforms: Github</li>
         <li>Containerizations: Docker, Podman</li>
-        <li>Container Orchestrations: Portainer, Yacht</li>
-        <li>Virtualizations: QEMU/KVM, VirtualBox</li>
+        <li>Container Orchestrations: Kubernetes</li>
+        <li>Virtualizations: QEMU/KVM, Vmware, VirtualBox</li>
         <li>Server Virtualizations: Proxmox</li>
         <li>Network Attached Storages: TrueNAS</li>
         <li>Cloud Platforms: Amazon Web Service (AWS)</li>
