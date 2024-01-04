@@ -25,8 +25,8 @@ const Skills = (props) => {
         <li>Cloud Platforms: Amazon Web Service (AWS)</li>
         <li>Operating Systems: Linux (Ubuntu, Fedora, Centos, RHEL), Unix (FreeBSD)</li>
         <li>Confoguration Management Tools: Ansible</li>
-        <li>Monitoring Tools: Nagios</li>
-        <li>Web Servers: Nginx</li>
+        <li>Monitoring Tools: Nagios, Prometheus, Grafana</li>
+        <li>Web Servers: Apache, Nginx</li>
         <li>Project Management Tools: Trello</li>
         <li>Content Management Systems: WordPress</li>
       </ul>
