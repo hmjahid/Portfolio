@@ -9,7 +9,7 @@ const Skills = (props) => {
 
       <section className="SkillSection">
       <h2 style={{color: "lightblue", fontSize: "32px"}}><u>My Skills</u> :</h2>
-      <>
+      <ul>
         <li>Markup Language: HTML</li>
         <li>Style Sheet Language: CSS</li>
         <li>CSS Framework: Bootstrap</li>
