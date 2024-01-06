@@ -24,7 +24,7 @@ const Skills = (props) => {
         <li>Network Attached Storages: TrueNAS</li>
         <li>Cloud Platforms: Amazon Web Service (AWS)</li>
         <li>Operating Systems: Linux (Ubuntu, Fedora, Centos, RHEL), Unix (FreeBSD)</li>
-        <li>Scripting Languages: Bash, Python</li>
+        <li>Shell Scripting Languages: Bash, Python</li>
         <li>Confoguration Management Tools: Ansible</li>
         <li>Monitoring Tools: Nagios, Prometheus, Grafana</li>
         <li>Web Servers: Apache, Nginx</li>
