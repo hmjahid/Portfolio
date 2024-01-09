@@ -5,9 +5,18 @@ const Certifications = () => {
     <div className="Certifications" id="Certifications">
 
         {/** <h2 className="CertificationsHeading">Courses</h2> */}
-        
+
         <section className="CertificationsSection">
         <h2 style={{color: "white", fontSize: "32px"}}><u>Certifications</u> :</h2>
+
+        <h3> Linux Command Line</h3>
+        <h4> * December 2023 *</h4>
+        <h5>Udemy</h5>
+        <a href="https://www.udemy.com/certificate/UC-1ed1eeea-1bfb-4b2c-9f05-453adacc6c98/" target="_blank"><button>Show Credential</button></a>
+
+        <br/>
+        <br/>
+        <br/>
 
         <h3>Linux Redhat Certified System Administrator (RHCSA - EX200)</h3>
         <h4> * December 2023 *</h4>
