@@ -1,5 +1,5 @@
 import './Hire.css';
-import CV from './Md Jahid Hasan_CV.pdf';
+import CV from './Md Jahid Hasan CV WordPress Developer.pdf';
 
 const Hire = () => {
   return (
@@ -9,7 +9,7 @@ const Hire = () => {
 
         <section className='HireSection'>
         <h2 style={{color: "white", fontSize: "32px"}}><u>Hire Me</u> :</h2>
-        <a href="https://drive.google.com/file/d/1OP3yEHnx8o2MSePB5RKgRR-h7z-UGXGI/view?usp=share_link" target="_blank"><button>VIEW RESUME</button></a> 
+        <a href="https://drive.google.com/file/d/1lMN-lXWiT8PGN7tRQCmCvemcp_1kP_eJ/view" target="_blank"><button>VIEW RESUME</button></a> 
         <br/>
         <a href={CV} download><button>DOWNLOAD RESUME</button></a>
         <br/>

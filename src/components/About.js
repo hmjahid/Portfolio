@@ -1,5 +1,5 @@
 import './About.css';
-import CV from './Md Jahid Hasan_CV.pdf';
+import CV from './Md Jahid Hasan CV WordPress Developer.pdf';
 
 const About = () => {
   return (

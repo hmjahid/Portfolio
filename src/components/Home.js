@@ -1,6 +1,6 @@
 import './Home.css';
 import Navbar from "./Navbar";
-import CV from './Md Jahid Hasan_CV.pdf';
+import CV from './Md Jahid Hasan CV WordPress Developer.pdf';
 import MdJahidHasan from './mdjahidhasan.png';
 import BootstrapNavbar from './BootstrapNavbar';
 
