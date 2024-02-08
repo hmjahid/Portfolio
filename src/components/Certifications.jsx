@@ -27,6 +27,15 @@ const Certifications = () => {
         <br/>
         <br/>
 
+        <h3>AWS Builders Online Series Attendance Certificate</h3>
+        <h4> * January 2024 *</h4>
+        <h5>Amazon Web Services (AWS)</h5>
+        <a href="https://pages.awscloud.com/index.php/email/emailWebview?email=MTEyLVRaTS03NjYAAAGRJtdy84ydKzdoQRoZBbMC9VeFQgT35XdDAfsYiKqDqJGXo07mAxBijHLDRzXFW92cfiv1g6U-fSsW4GTfgw4vuNF0u9W-Qjb9RUc" target="_blank"><button>Show Credential</button></a>
+
+        <br/>
+        <br/>
+        <br/>
+
         <h3>Linux Desktop Automation</h3>
         <h4> * January 2024 *</h4>
         <h5>Udemy</h5>
